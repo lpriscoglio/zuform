@@ -1,544 +1,544 @@
-id,ruolo_classic,role_1_mantra,role_2_mantra,role_3_mantra,name,team,curr_value_classic,base_value_classic,curr_value_mantra,base_value_mantra,value_classic_1000,value_mantra_1000,rating,first_team,penalty_taker,free_kick_taker,injured,notes
-4312,P,Por,,,Maignan,Milan,17,17,17,17,89,89,A-,Y,N,N,0,
-572,P,Por,,,Meret,Napoli,16,17,16,17,80,80,A,Y,N,N,0,
-2428,P,Por,,,Sommer,Inter,16,15,16,15,67,67,A-,Y,N,N,0,
-453,P,Por,,,Szczesny,Juventus,15,15,15,15,71,71,C,Y,N,N,0,
-2814,P,Por,,,Provedel,Lazio,15,16,15,16,60,60,A-,Y,N,N,0,
-4270,P,Por,,,Rui Patricio,Roma,12,14,12,14,47,47,B,Y,N,N,0,
-5876,P,Por,,,Di Gregorio,Monza,12,12,12,12,37,37,C,Y,N,N,0,
-133,P,Por,,,Skorupski,Bologna,10,10,10,10,32,32,B,Y,N,N,0,
-2170,P,Por,,,Milinkovic-Savic V.,Torino,10,10,10,10,31,31,B,Y,N,N,0,
-2815,P,Por,,,Terracciano,Fiorentina,10,10,10,10,14,14,F,Y,N,N,0,
-4431,P,Por,,,Carnesecchi,Atalanta,10,11,10,11,10,16,B,Y,N,N,0,
-2134,P,Por,,,Falcone,Lecce,9,8,9,8,22,22,D,Y,N,N,0,
-2211,P,Por,,,Silvestri,Udinese,9,9,9,9,31,31,D,Y,N,N,0,
-6120,P,Por,,,Ochoa,Salernitana,9,9,9,9,30,30,C,Y,N,N,0,
-3,P,Por,,,Radunovic,Cagliari,8,8,8,8,13,13,B,Y,N,N,0,
-4957,P,Por,,,Montipo',Verona,8,7,8,7,13,13,D,Y,N,N,0,
-5116,P,Por,,,Martinez Jo.,Genoa,8,8,8,8,17,17,D,Y,N,N,0,
-4360,P,Por,,,Caprile,Empoli,6,7,6,7,10,10,D,Y,N,N,40,
-509,P,Por,,,Consigli,Sassuolo,5,5,5,5,15,15,C,Y,N,N,0,
-2792,P,Por,,,Musso,Atalanta,5,3,5,3,28,28,C,Y,N,N,0,
-4867,P,Por,,,Turati,Frosinone,5,5,5,5,8,8,B,Y,N,N,0,
-218,P,Por,,,Perin,Juventus,3,1,3,1,5,5,D,N,N,N,0,
-316,P,Por,,,Berisha,Empoli,3,1,3,1,5,5,D,N,N,N,0,
-2178,P,Por,,,Cragno,Sassuolo,3,4,3,4,8,8,D,N,N,N,0,
-2294,P,Por,,,Cerofolini,Frosinone,2,1,2,1,1,1,D,N,N,N,0,
-6403,P,Por,,,Christensen O.,Fiorentina,2,3,2,3,16,16,D,Y,N,N,0,
-4,P,Por,,,Sportiello,Milan,1,1,1,1,1,1,D,N,N,N,0,
-41,P,Por,,,Mirante,Milan,1,1,1,1,1,1,D,N,N,N,0,
-159,P,Por,,,Sepe,Lazio,1,1,1,1,1,1,D,N,N,N,0,
-188,P,Por,,,Leali,Genoa,1,1,1,1,1,1,D,N,N,N,0,
-217,P,Por,,,Lamanna,Monza,1,1,1,1,1,1,D,N,N,N,0,
-219,P,Por,,,Sommariva,Genoa,1,1,1,1,1,1,D,N,N,N,0,
-510,P,Por,,,Pegolo,Sassuolo,1,1,1,1,1,1,D,N,N,N,0,
-511,P,Por,,,Perilli,Verona,1,1,1,1,1,1,D,N,N,N,0,
-543,P,Por,,,Padelli,Udinese,1,1,1,1,1,1,D,N,N,N,10,
-574,P,Por,,,Scuffet,Cagliari,1,1,1,1,1,1,D,N,N,N,0,
-610,P,Por,,,Gollini,Napoli,1,1,1,1,1,1,D,N,N,N,0,
-673,P,Por,,,Perisan,Empoli,1,2,1,2,1,1,D,N,N,N,0,
-761,P,Por,,,Audero,Inter,1,1,1,1,1,1,D,N,N,N,0,
-1926,P,Por,,,Di Gennaro,Inter,1,1,1,1,1,1,D,N,N,N,0,
-1930,P,Por,,,Pinsoglio,Juventus,1,1,1,1,1,1,D,N,N,N,0,
-1946,P,Por,,,Aresti,Cagliari,1,1,1,1,1,1,D,N,N,N,0,
-1947,P,Por,,,Fiorillo,Salernitana,1,1,1,1,1,1,D,N,N,N,0,
-2297,P,Por,,,Rossi F.,Atalanta,1,1,1,1,1,1,D,N,N,N,0,
-2338,P,Por,,,Costil,Salernitana,1,1,1,1,1,1,D,N,N,N,0,
-2722,P,Por,,,Ravaglia F.,Bologna,1,1,1,1,1,1,D,N,N,N,0,
-2799,P,Por,,,Frattali,Frosinone,1,1,1,1,1,1,D,N,N,N,0,
-2845,P,Por,,,Contini,Napoli,1,1,1,1,1,1,D,N,N,N,0,
-4351,P,Por,,,Brancolini,Lecce,1,1,1,1,1,1,D,N,N,N,0,
-4491,P,Por,,,Berardi A.,Verona,1,1,1,1,1,1,D,N,N,N,0,
-4525,P,Por,,,Gemello,Torino,1,1,1,1,1,1,D,N,N,N,0,
-5304,P,Por,,,Boer,Roma,1,1,1,1,1,1,D,N,N,N,0,
-5822,P,Por,,,Bagnolini,Bologna,1,1,1,1,1,1,D,N,N,N,0,
-5841,P,Por,,,Svilar,Roma,1,1,1,1,1,1,D,N,N,N,0,
-5853,P,Por,,,Sorrentino A.,Monza,1,1,1,1,1,1,D,N,N,N,0,
-6184,P,Por,,,Martinelli T.,Fiorentina,1,1,1,1,1,1,D,N,N,N,0,
-6210,P,Por,,,Popa,Torino,1,1,1,1,1,1,D,N,N,N,0,
-6234,P,Por,,,Stubljar,Empoli,1,1,1,1,1,1,D,N,N,N,0,
-6255,P,Por,,,Gori,Monza,1,1,1,1,1,1,D,N,N,N,0,
-6406,P,Por,,,Borbei,Lecce,1,1,1,1,1,1,D,N,N,N,0,
-6462,P,Por,,,Okoye,Udinese,1,1,1,1,1,1,D,N,N,N,0,
-6482,P,Por,,,Mandas,Lazio,1,1,1,1,1,1,A,N,N,N,0,
-254,D,E,,,Dimarco,Inter,20,19,19,18,81,72,A,Y,N,Y,0,Gioca Punta
-2816,D,Dd,E,,Di Lorenzo,Napoli,20,18,20,18,96,96,A,Y,N,N,0,
-4292,D,Ds,E,,Hernandez T.,Milan,18,17,18,17,90,90,B,Y,Y,Y,0,
-5877,D,E,,,Carlos Augusto,Inter,17,17,17,17,42,30,A-,N,N,N,0,
-4237,D,Dd,Ds,Dc,Danilo,Juventus,16,15,19,18,44,58,A-,Y,N,N,0,
-554,D,E,,,Zappacosta,Atalanta,15,15,14,14,41,38,A,Y,N,N,0,
-6041,D,Dc,,,Schuurs,Torino,15,14,15,14,46,46,B,Y,N,N,0,
-6066,D,Dd,Dc,,Posch,Bologna,15,16,17,18,46,50,A-,Y,N,N,0,
-2120,D,Dc,,,Bastoni,Inter,14,13,14,13,48,48,A,Y,N,N,0,
-4177,D,Dd,Dc,,Pavard,Inter,14,14,15,15,48,50,B,Y,N,N,0,
-4245,D,Dc,,,Smalling,Roma,14,15,14,15,46,50,A-,Y,N,N,0,
-4409,D,Dc,,,Rrahmani,Napoli,14,14,14,14,44,44,B,Y,N,N,0,
-5513,D,E,,,Dumfries,Inter,14,12,13,11,47,39,B,Y,N,N,0,
-460,D,Dc,,,Romagnoli,Lazio,13,13,13,13,36,36,B,Y,N,N,0,
-2788,D,Dc,,,Bremer,Juventus,13,13,13,13,48,48,,Y,N,N,0,
-4751,D,Dc,,,Tomori,Milan,13,13,13,13,43,43,B,Y,N,N,0,
-1852,D,E,,,Spinazzola,Roma,12,10,11,9,26,22,A-,Y,N,N,0,
-2525,D,Dd,Dc,,Darmian,Inter,12,11,14,13,23,27,B,N,N,N,0,
-252,D,Ds,E,,Biraghi,Fiorentina,11,10,11,10,24,24,B,Y,N,Y,0,
-5067,D,E,,,Bakker,Atalanta,11,12,10,11,23,20,B,Y,N,N,0,
-5481,D,Dd,Ds,E,Mazzocchi,Salernitana,11,12,13,14,37,41,B,Y,N,N,0,
-5835,D,Dd,Dc,,Baschirotto,Lecce,11,10,12,11,32,35,C,Y,N,N,0,
-5851,D,Ds,E,,Doig,Verona,11,11,11,11,20,20,B,Y,N,N,0,
-6055,D,Dc,,,Thiaw,Milan,11,10,11,10,27,27,D,Y,N,N,0,
-142,D,Ds,E,,Mario Rui,Napoli,10,10,10,10,20,20,B,Y,N,Y,0,
-357,D,Dd,E,,Calabria,Milan,10,9,10,9,22,22,B,Y,N,N,0,
-513,D,Dc,,,Acerbi,Inter,10,11,10,11,32,32,C,Y,N,N,15,
-697,D,E,,,Cuadrado,Inter,10,9,9,8,34,28,B,Y,N,N,0,
-2164,D,Dc,,,Milenkovic,Fiorentina,10,10,10,10,26,26,A-,Y,N,N,0,
-2296,D,Dc,,,Mancini,Roma,10,11,10,11,26,26,B,Y,N,N,0,
-2724,D,Dc,,,Buongiorno,Torino,10,11,10,11,23,23,B,Y,N,N,0,
-5480,D,Dd,E,,Ebuehi,Empoli,10,11,10,11,17,17,C,Y,N,N,0,
-5498,D,Dc,,,Casale,Lazio,10,10,10,10,22,22,C,Y,N,N,0,
-5526,D,Dc,,,Scalvini,Atalanta,10,9,10,9,30,30,A-,Y,N,N,0,
-5678,D,E,,,Holm,Atalanta,10,10,9,9,20,18,B,N,N,N,0,
-581,D,Dd,E,,Faraoni,Verona,9,9,9,9,16,16,D,Y,N,N,0,
-2640,D,Ds,Dc,,Kolasinac,Atalanta,9,9,10,10,22,27,C,Y,N,N,0,
-5677,D,Dc,,,Perez N.,Udinese,9,9,9,9,12,12,A-,Y,N,N,0,
-5847,D,Dc,,,Bijol,Udinese,9,9,9,9,21,21,B,Y,N,N,0,
-322,D,Dc,,,De Vrij,Inter,8,6,8,6,13,13,C,N,N,N,0,
-695,D,Dc,,,Toloi,Atalanta,8,9,8,9,12,12,C,Y,N,N,0,
-787,D,Dc,,,Djimsiti,Atalanta,8,7,8,7,16,16,A-,Y,N,N,0,
-2169,D,Ds,Dc,,Rodriguez R.,Torino,8,8,9,9,10,12,C,Y,N,N,0,
-2593,D,Ds,E,,Martin,Genoa,8,8,8,8,12,12,D,N,N,N,0,
-4317,D,Dc,,,N'dicka,Roma,8,9,8,9,20,20,C,Y,N,N,0,
-4530,D,Ds,E,,Kyriakopoulos,Monza,8,9,8,9,15,15,,Y,N,N,0,
-4904,D,Dc,,,Mari',Monza,8,9,8,9,18,18,C,Y,N,N,0,
-5332,D,Ds,E,,Bastoni S.,Empoli,8,8,8,8,32,32,C,N,N,N,0,
-6220,D,Dd,E,,Kristensen,Roma,8,9,8,9,15,15,B,Y,N,N,0,
-6396,D,Dc,,,Natan,Napoli,8,9,8,9,17,17,D,N,N,N,0,
-140,D,Dd,Ds,E,Hysaj,Lazio,7,7,8,8,15,18,B,Y,N,N,0,
-226,D,Dc,,,Izzo,Monza,7,8,7,8,18,18,C,Y,N,N,0,
-253,D,Dd,Ds,Dc,D'ambrosio,Monza,7,7,9,9,14,14,D,Y,N,N,20,
-393,D,Dc,,,Luperto,Empoli,7,8,7,8,10,10,C,Y,N,N,0,
-2188,D,Dd,Ds,E,Marusic,Lazio,7,7,8,8,15,20,C,Y,N,N,0,
-4210,D,Dc,,,Mina,Fiorentina,7,8,7,8,12,12,C,N,N,N,0,
-4887,D,Dd,E,,Bellanova,Torino,7,8,7,8,25,26,D,Y,N,N,0,
-4958,D,Ds,Dc,,Caldirola,Monza,7,7,8,8,10,12,C,Y,N,N,0,
-4976,D,Dd,Dc,,Kalulu,Milan,7,7,8,8,15,17,C,N,N,N,0,
-5449,D,Ds,E,,Parisi,Fiorentina,7,8,7,8,20,20,D,Y,N,N,0,
-5520,D,Dd,Ds,E,Cambiaso,Juventus,7,5,7,6,22,27,B,Y,N,N,0,
-5532,D,Ds,E,,Bradaric,Salernitana,7,7,7,7,11,11,D,Y,N,Y,0,
-5555,D,Ds,E,,Kamara H.,Udinese,7,6,7,6,10,10,D,Y,N,N,0,
-5840,D,Ds,E,,Olivera,Napoli,7,7,7,7,24,24,,Y,N,N,0,
-5885,D,Dd,E,,Dodo',Fiorentina,7,8,7,8,22,22,C,N,N,N,0,
-6042,D,Dc,,,Lucumi',Bologna,7,7,7,7,16,16,D,Y,N,N,0,
-6046,D,Dc,,,Hien,Verona,7,8,7,8,15,15,C,Y,N,N,0,
-6148,D,Ds,E,,Kristiansen,Bologna,7,6,7,6,22,22,C,Y,N,N,0,
-6426,D,Dd,E,,Pedersen,Sassuolo,7,7,7,7,10,10,D,Y,N,N,0,
-76,D,Dc,,,Romagnoli S.,Frosinone,6,5,6,5,6,6,C,N,N,N,0,
-256,D,Ds,Dc,,Juan Jesus,Napoli,6,5,7,6,21,25,C,Y,N,N,0,
-660,D,Dc,,,Gyomber,Salernitana,6,6,6,6,7,7,C,Y,N,N,0,
-662,D,Ds,Dc,,Alex Sandro,Juventus,6,6,7,7,12,16,D,Y,N,N,0,
-2130,D,E,,,Hateboer,Atalanta,6,7,5,6,10,10,C,N,N,N,30,
-2181,D,Dc,,,Palomino,Atalanta,6,7,6,7,8,8,C,N,N,N,0,
-2252,D,Ds,Dc,,Marchizza,Frosinone,6,5,7,6,5,7,B,Y,N,N,0,
-2263,D,Dd,E,,Lazzari,Lazio,6,5,6,5,16,16,D,N,N,N,0,
-4426,D,Dd,E,,Toljan,Sassuolo,6,6,6,6,9,9,C,Y,N,N,0,
-4461,D,Dd,E,,Zappa,Cagliari,6,6,6,6,14,14,D,Y,N,N,0,
-4502,D,Ds,E,,Gallo,Lecce,6,5,6,5,9,9,B,Y,N,N,0,
-4982,D,Dc,,,Erlic,Sassuolo,6,5,6,5,10,10,D,Y,N,N,0,
-4994,D,E,,,Vojvoda,Torino,6,6,6,5,16,12,C,Y,N,N,0,
-5239,D,Dc,,,Llorente D.,Roma,6,6,6,6,17,17,D,N,N,N,0,
-5365,D,Dd,Dc,,Dragusin,Genoa,6,6,7,7,12,12,D,Y,N,N,0,
-5514,D,Ds,Dc,,Vasquez,Genoa,6,4,7,5,7,7,C,Y,N,N,0,
-5718,D,Dc,,,Viti,Sassuolo,6,6,6,6,7,7,D,N,N,N,0,
-5831,D,Dc,,,Gatti,Juventus,6,6,6,6,12,12,D,Y,N,N,0,
-5838,D,Dd,Ds,E,Birindelli,Monza,6,5,7,6,5,6,D,Y,N,N,0,
-5867,D,Dd,E,,Gendrey,Lecce,6,6,6,6,8,9,D,Y,N,N,0,
-6202,D,Dc,,,Beukema,Bologna,6,6,6,6,22,22,C,Y,N,N,0,
-6211,D,Ds,E,,Zemura,Udinese,6,5,6,5,7,7,D,Y,N,N,0,
-6230,D,Dc,,,Dossena,Cagliari,6,6,6,6,7,7,D,Y,N,N,0,
-6231,D,Ds,E,,Azzi,Cagliari,6,5,6,5,10,10,D,N,N,N,0,
-6464,D,Dc,,,Wieteska,Cagliari,6,5,6,5,7,7,D,Y,N,N,0,
-49,D,Ds,Dc,,Masina,Udinese,5,6,6,7,7,8,D,Y,N,N,15,
-770,D,Ds,E,,Pezzella Giu.,Empoli,5,5,5,5,5,5,D,Y,N,N,0,
-791,D,Dd,Ds,E,Sabelli,Genoa,5,4,6,5,12,12,D,Y,N,N,0,
-2653,D,Ds,E,,Lykogiannis,Bologna,5,5,5,5,8,8,D,N,N,Y,0,
-2869,D,Dc,,,Djidji,Torino,5,6,5,6,7,7,D,Y,N,N,150,
-4263,D,Dc,,,Kabasele,Udinese,5,5,5,5,5,5,D,Y,N,N,0,
-4378,D,Ds,Dc,,Ranieri L.,Fiorentina,5,5,5,6,12,12,D,Y,N,N,0,
-4421,D,Ds,E,,Augello,Cagliari,5,5,5,5,12,12,D,Y,N,N,0,
-4433,D,Dd,Ds,E,Zortea,Atalanta,5,3,6,4,4,5,D,N,N,N,0,
-4493,D,Dc,,,Dawidowicz,Verona,5,4,5,4,5,5,,Y,N,N,0,
-4897,D,Dc,,,Pirola,Salernitana,5,5,5,5,10,10,D,Y,N,N,10,
-4934,D,Dc,,,Lovato,Salernitana,5,4,5,4,6,6,D,N,N,N,0,
-4952,D,Dc,,,Monterisi,Frosinone,5,1,5,1,6,6,D,Y,N,N,0,
-5010,D,Dc,,,Ismajli,Empoli,5,5,5,5,9,9,D,Y,N,N,0,
-5323,D,Dc,,,Martinez Quarta,Fiorentina,5,6,5,6,7,7,D,Y,N,N,0,
-5354,D,Ds,E,,Ruggeri,Atalanta,5,3,6,4,10,8,D,N,N,N,0,
-5603,D,Dc,,,Pongracic,Lecce,5,5,5,5,6,6,D,Y,N,N,0,
-5701,D,Dc,,,Obert,Cagliari,5,5,5,5,6,6,D,N,N,N,0,
-5747,D,Dc,,,Tressoldi,Sassuolo,5,5,5,5,7,7,D,Y,N,N,0,
-5848,D,Dd,E,,Ebosele,Udinese,5,4,5,4,6,6,D,Y,N,N,0,
-6438,D,Dd,Dc,,Hatzidiakos,Cagliari,5,5,5,5,7,7,D,N,N,N,0,
-327,D,Dd,Dc,,Patric,Lazio,4,5,5,6,5,6,C,N,N,N,0,
-2083,D,Dd,Dc,,Biraschi,Genoa,4,3,5,4,3,4,D,N,N,N,0,
-2728,D,Ds,E,,Pellegrini Lu.,Lazio,4,4,4,4,8,8,D,N,N,N,0,
-4385,D,E,,,Lazaro,Torino,4,4,4,4,8,8,D,N,N,N,0,
-4945,D,Ds,E,,Calafiori,Bologna,4,4,4,4,7,7,D,Y,N,N,0,
-5509,D,Ds,E,,Vina,Sassuolo,4,4,4,4,6,6,D,Y,N,N,0,
-5812,D,Dd,E,,Terracciano F.,Verona,4,3,4,3,7,7,C,N,N,N,0,
-6047,D,Dd,E,,Ehizibue,Udinese,4,5,4,5,6,6,D,N,N,N,90,
-6245,D,Dd,Dc,,Vogliacco,Genoa,4,5,5,6,4,4,C,N,N,N,10,
-418,D,Dc,,,Goldaniga,Cagliari,3,3,3,3,3,3,D,N,N,N,0,
-1895,D,Dc,,,Ferrari G.,Sassuolo,3,4,3,4,10,10,D,N,N,N,0,
-2006,D,Dd,E,,Lirola,Frosinone,3,3,3,3,5,5,D,Y,N,N,0,
-2104,D,Dd,E,,Bereszynski,Empoli,3,3,3,3,4,4,D,N,N,N,0,
-2174,D,Dd,Ds,E,Venuti,Lecce,3,4,4,5,5,7,D,N,N,N,40,
-2180,D,Dd,E,,Karsdorp,Roma,3,2,3,2,2,2,D,N,N,N,0,
-2285,D,Dc,,,Bani,Genoa,3,3,3,3,6,6,D,Y,N,N,0,
-2633,D,Dc,,,Kjaer,Milan,3,4,3,4,8,8,D,N,N,N,0,
-2758,D,Dc,,,Gunter,Verona,3,4,3,4,4,4,D,N,N,N,0,
-2769,D,Dc,,,Magnani,Verona,3,3,3,3,4,4,D,Y,N,N,0,
-4891,D,Dc,,,Soumaoro,Bologna,3,4,3,4,5,5,D,N,N,N,120,
-4925,D,Ds,Dc,,Carboni A.,Monza,3,3,4,4,3,4,D,N,N,N,0,
-5406,D,Dd,E,,Di Pardo,Cagliari,3,2,3,2,3,3,D,N,N,N,0,
-5527,D,Dd,E,,Zanoli,Napoli,3,4,3,4,6,6,D,N,N,N,0,
-5691,D,Dc,,,Zima,Torino,3,3,3,3,4,4,D,Y,N,N,0,
-5748,D,Dd,E,,Hefti,Genoa,3,3,3,3,4,4,D,Y,N,N,0,
-5750,D,Dc,,,Ostigard,Napoli,3,4,3,4,9,9,D,Y,N,N,0,
-5856,D,Dd,E,,Sambia,Salernitana,3,4,3,4,5,5,D,N,N,N,0,
-6217,D,Dc,,,Bisseck,Inter,3,4,3,4,6,6,D,N,N,N,0,
-6257,D,Ds,E,,Dorgu,Lecce,3,1,3,1,8,8,D,N,N,N,0,
-6465,D,Ds,Dc,,Touba,Lecce,3,3,3,3,5,5,D,N,N,N,0,
-6474,D,Dc,,,Sazonov,Torino,3,3,3,3,4,4,D,N,N,N,0,
-294,D,Dc,,,Rugani,Juventus,2,3,2,3,6,6,D,N,N,N,0,
-358,D,Dd,Ds,E,De Sciglio,Juventus,2,3,2,3,6,6,D,N,N,N,90,
-464,D,Dd,Ds,E,Florenzi,Milan,2,3,3,4,5,7,D,N,N,N,0,
-2016,D,Dc,,,Fazio,Salernitana,2,2,2,2,2,2,D,N,N,N,0,
-2192,D,Dc,,,Bonifazi,Bologna,2,3,2,3,3,3,D,N,N,N,0,
-4374,D,Dc,,,Walukiewicz,Empoli,2,3,2,3,4,4,D,Y,N,N,0,
-4495,D,Dc,,,Kumbulla,Roma,2,3,2,3,3,3,D,N,N,N,90,
-4657,D,Dd,E,,Celik,Roma,2,3,2,3,5,5,D,N,N,N,0,
-5316,D,Ds,Dc,,Amione,Verona,2,3,3,4,5,6,D,N,N,N,0,
-5554,D,Dd,Dc,,Daniliuc,Salernitana,2,3,2,3,4,5,D,Y,N,N,60,
-5695,D,Ds,E,,Haps,Genoa,2,2,2,2,4,4,D,N,N,N,0,
-5739,D,Dd,Dc,,De Winter,Genoa,2,3,2,3,6,8,D,N,N,N,0,
-5757,D,Dc,,,Cittadini,Monza,2,3,2,3,4,4,D,N,N,N,0,
-5764,D,Dc,,,Coppola D.,Verona,2,2,2,2,2,2,D,N,N,N,0,
-5804,D,Ds,E,,Cacace,Empoli,2,3,2,3,8,8,D,Y,N,N,0,
-5994,D,Ds,Dc,,Ebosse,Udinese,2,3,3,4,3,4,D,N,N,N,35,
-6039,D,Ds,Dc,,Cabal,Verona,2,3,3,4,4,5,D,N,N,N,0,
-6189,D,Dd,E,,Missori,Sassuolo,2,1,2,1,1,1,D,N,N,N,0,
-6235,D,Dd,Ds,E,Kayode,Fiorentina,2,1,3,2,8,8,D,N,N,N,0,
-6238,D,Dd,Ds,Dc,Oyono,Frosinone,2,1,2,1,8,12,D,Y,N,N,0,
-6256,D,Dd,E,,Ferreira J.,Udinese,2,1,2,1,1,1,D,Y,N,N,0,
-6407,D,Dd,Ds,E,Corazza,Bologna,2,1,2,1,1,1,D,N,N,N,0,
-6485,D,Dc,,,Kristensen T.,Udinese,2,2,2,2,3,3,D,N,N,N,0,
-139,D,Dc,,,Dermaku,Lecce,1,1,1,1,1,1,D,N,N,N,0,
-144,D,Dc,,,Tonelli,Empoli,1,1,1,1,2,2,D,N,N,N,0,
-454,D,Dc,,,Capradossi,Cagliari,1,1,1,1,1,1,D,N,N,N,0,
-487,D,Dd,E,,De Silvestri,Bologna,1,2,1,2,3,3,D,N,N,N,0,
-729,D,Dd,E,,Pereira P.,Monza,1,1,1,1,1,1,D,N,N,N,0,
-2737,D,Dc,,,Bettella,Monza,1,1,1,1,1,1,D,N,N,N,20,
-4432,D,Dc,,,Okoli,Frosinone,1,2,1,2,7,7,,Y,N,N,0,
-5424,D,Dd,Dc,,Amey,Bologna,1,1,1,1,1,2,D,N,N,N,0,
-5686,D,E,,,Soppy,Torino,1,2,1,2,3,3,D,N,N,N,0,
-5833,D,Dc,,,Gila,Lazio,1,1,1,1,2,2,D,N,N,N,0,
-6023,D,Dc,,,Guessand A.,Udinese,1,1,1,1,1,1,D,N,N,N,0,
-6028,D,Dd,Dc,,Bronn,Salernitana,1,2,1,2,3,3,D,N,N,N,0,
-6043,D,Dc,,,Sosa,Bologna,1,2,1,2,2,2,D,N,N,N,0,
-6056,D,Dc,,,Guarino,Empoli,1,1,1,1,2,2,D,N,N,N,0,
-6149,D,Ds,E,,Carboni F.,Monza,1,1,1,1,1,1,D,N,N,N,0,
-6223,D,Dc,,,Smajlovic,Lecce,1,1,1,1,1,1,D,N,N,N,0,
-6244,D,Dc,,,Matturro,Genoa,1,1,1,1,1,1,A,N,N,N,0,
-6253,D,Dc,,,N'guessan,Torino,1,1,1,1,1,1,A,N,N,N,0,
-6411,D,Dc,,,Mateus Lusuardi,Frosinone,1,1,1,1,1,1,A,N,N,N,0,
-6430,D,Dc,,,Kalaj,Frosinone,1,1,1,1,1,1,A-,N,N,N,0,
-6432,D,Dd,Ds,E,Pierozzi,Fiorentina,1,1,1,2,2,3,A,Y,N,N,0,
-6433,D,Dc,,,Huijsen,Juventus,1,1,1,1,1,1,A-,N,N,N,0,
-6444,D,Dc,,,Bonfanti,Atalanta,1,1,1,1,1,1,A-,N,N,N,0,
-6460,D,Dc,,,Pellegrino,Milan,1,1,1,1,1,1,A-,N,N,N,0,
-632,C,W,A,,Zaccagni,Lazio,26,28,26,28,162,160,A,Y,Y,Y,0,
-5685,C,C,T,,Koopmeiners,Atalanta,24,24,24,24,112,112,,Y,Y,Y,0,
-335,C,W,A,,Felipe Anderson,Lazio,22,23,22,23,114,120,A-,Y,N,N,0,
-2085,C,C,T,,Luis Alberto,Lazio,22,21,23,22,90,94,B,Y,Y,Y,0,
-2379,C,C,,,Rabiot,Juventus,22,22,22,22,103,103,A-,Y,N,N,0,
-152,C,C,T,,Zielinski,Napoli,21,20,21,20,74,74,A-,Y,N,Y,0,
-1870,C,C,,,Barella,Inter,20,20,20,20,78,78,B,Y,N,N,0,
-2423,C,T,A,,Pulisic,Milan,20,18,19,17,126,120,B,Y,Y,Y,0,
-2167,C,W,,,Orsolini,Bologna,19,21,18,20,91,91,A-,Y,Y,Y,0,
-4856,C,W,A,,Chukwueze,Milan,19,19,18,18,75,75,B,Y,N,N,0,
-4486,C,W,,,Strefezza,Lecce,18,18,17,17,69,69,A,Y,Y,Y,0,
-5858,C,C,T,,Ferguson,Bologna,18,17,19,18,71,74,A-,Y,N,N,0,
-332,C,W,,,Candreva,Salernitana,17,15,16,14,75,72,B,Y,Y,Y,0,
-2194,C,M,C,,Calhanoglu,Inter,17,16,19,18,69,81,A-,Y,Y,Y,0,
-2848,C,C,,,Frattesi,Inter,17,17,17,17,54,54,B,Y,N,N,0,
-5119,C,C,T,,Samardzic,Udinese,17,16,17,16,50,50,B,Y,Y,N,0,
-5687,C,W,T,,Vlasic,Torino,17,18,18,19,68,74,A-,Y,Y,Y,15,
-795,C,W,A,,El Shaarawy,Roma,16,16,15,15,35,31,A-,N,N,N,0,
-4142,C,C,T,,Aouar,Roma,16,15,16,15,55,55,B,Y,N,Y,15,
-367,C,C,T,,Bonaventura,Fiorentina,15,14,15,14,39,39,B,Y,N,Y,0,
-530,C,C,T,,Pellegrini Lo.,Roma,15,16,15,16,62,66,A-,Y,Y,Y,0,
-536,C,W,,,Politano,Napoli,15,14,14,13,66,60,B,Y,Y,N,0,
-4427,C,T,,,Malinovskyi,Genoa,15,17,14,16,62,60,A-,Y,Y,Y,0,
-5850,C,C,T,,Lovric,Udinese,15,15,15,15,53,53,A-,Y,N,Y,0,
-5948,C,C,T,,Kamada,Lazio,15,15,15,15,48,45,B,Y,N,N,0,
-5949,C,W,T,,Lindstrom,Napoli,15,15,15,15,60,60,B,Y,N,N,0,
-236,C,E,W,,Lazovic,Verona,14,15,14,15,42,45,C,Y,N,Y,20,
-4199,C,C,,,Loftus-Cheek,Milan,14,13,14,13,33,33,C,Y,N,N,0,
-4220,C,M,C,,Zambo Anguissa,Napoli,14,14,15,15,34,40,,Y,N,N,0,
-4479,C,C,W,T,Elmas,Napoli,14,15,16,17,44,50,A-,N,N,N,0,
-4711,C,E,W,,Kostic,Juventus,14,15,14,15,30,25,C,Y,N,Y,0,
-5800,C,T,A,,Gudmundsson A.,Genoa,14,14,13,13,63,58,C,Y,Y,Y,0,
-5823,C,T,A,,Baldanzi,Empoli,14,15,13,14,39,36,C,Y,Y,Y,0,
-5880,C,E,W,,Ciurria,Monza,14,14,15,15,42,46,C,Y,N,Y,0,
-2077,C,T,,,Pasalic,Atalanta,13,14,12,13,30,25,B,Y,N,N,0,
-2529,C,C,T,,Mkhitaryan,Inter,13,13,13,13,42,42,B,Y,N,Y,0,
-2741,C,C,T,,Pessina,Monza,13,14,13,14,40,40,C,Y,Y,Y,0,
-4186,C,C,T,,Guendouzi,Lazio,13,13,12,12,30,28,B,Y,N,N,0,
-4287,C,M,C,,Lobotka,Napoli,13,13,14,14,27,36,C,Y,N,N,0,
-5451,C,T,,,Bajrami,Sassuolo,13,13,12,12,36,30,B,N,N,Y,0,
-5453,C,M,C,,Ricci S.,Torino,13,13,14,14,23,28,A-,Y,N,N,0,
-6224,C,M,C,,Reijnders,Milan,13,12,14,13,40,50,B,Y,N,Y,0,
-303,C,C,T,,Pogba,Juventus,12,12,12,12,28,28,C,Y,Y,N,40,
-2543,C,C,,,Renato Sanches,Roma,12,13,12,13,32,30,C,Y,N,N,20,
-4465,C,C,T,,Fagioli,Juventus,12,13,12,13,30,30,C,Y,N,N,0,
-4658,C,W,,,Ikone',Fiorentina,12,13,11,12,18,18,D,Y,N,N,15,
-5007,C,C,,,Ilic,Torino,12,12,12,12,28,28,D,Y,N,Y,0,
-5063,C,W,,,Radonjic,Torino,12,11,11,10,27,25,B,Y,N,Y,0,
-5564,C,W,A,,Ndoye,Bologna,12,12,11,11,25,25,D,Y,N,N,0,
-5792,C,C,T,,Ederson D.s.,Atalanta,12,10,12,10,20,20,C,Y,N,N,0,
-5878,C,C,T,,Colpani,Monza,12,9,12,9,25,25,D,Y,N,N,0,
-22,C,M,C,,De Roon,Atalanta,11,11,12,12,18,22,C,Y,N,N,0,
-827,C,M,C,,Locatelli,Juventus,11,12,12,13,29,32,C,Y,N,N,0,
-2172,C,T,,,Barak,Fiorentina,11,12,10,11,14,10,B,Y,Y,N,25,
-150,C,W,T,,Saponara,Verona,10,11,10,11,29,33,,N,N,Y,15,
-779,C,M,C,,Cristante,Roma,10,9,11,10,17,23,D,Y,N,N,0,
-1933,C,M,C,,Mandragora,Fiorentina,10,9,10,10,15,16,C,Y,N,Y,0,
-4662,C,E,W,,Weah,Juventus,10,10,10,10,32,38,D,Y,N,N,0,
-2818,C,M,C,,Bennacer,Milan,9,10,10,11,9,10,A-,N,N,N,90,
-4182,C,C,T,,Klaassen,Inter,9,9,9,9,18,18,D,N,N,N,0,
-4377,C,C,T,,Castrovilli,Fiorentina,9,10,8,9,9,9,C,N,N,N,90,
-5001,C,T,A,,Miranchuk,Atalanta,9,10,9,10,8,8,C,N,N,N,0,
-5295,C,C,,,Musah,Milan,9,9,9,9,18,18,D,N,N,N,0,
-5511,C,C,,,Matheus Henrique,Sassuolo,9,9,8,8,9,8,B,Y,N,N,0,
-5995,C,T,,,De Ketelaere,Atalanta,9,7,9,7,41,37,D,Y,N,Y,0,
-6216,C,W,,,Mboula,Verona,9,10,8,9,12,12,C,N,N,N,0,
-333,C,M,C,,Cataldi,Lazio,8,7,8,8,12,14,C,N,N,Y,0,
-1987,C,E,C,,Jankto,Cagliari,8,7,8,8,15,18,D,Y,N,Y,0,
-2839,C,W,,,Sottil,Fiorentina,8,8,8,8,12,12,C,Y,N,N,0,
-4285,C,M,C,,Arthur Melo,Fiorentina,8,7,9,8,18,18,B,Y,N,N,0,
-4342,C,C,T,,Duda,Verona,8,6,8,6,14,14,C,Y,Y,Y,0,
-4404,C,M,C,,Thorsby,Genoa,8,9,10,11,18,21,D,N,N,N,0,
-4514,C,E,C,,Nandez,Cagliari,8,7,9,8,21,24,C,Y,N,Y,0,
-4890,C,M,C,,Tameze,Torino,8,8,9,9,10,13,B,N,N,N,0,
-4965,C,M,C,,Marin,Empoli,8,8,9,9,14,16,C,Y,N,Y,0,
-4970,C,W,,,Messias,Genoa,8,9,7,8,28,28,D,N,N,Y,20,
-4973,C,C,,,Mckennie,Juventus,8,8,7,7,11,11,C,N,N,N,0,
-5093,C,W,T,,Reinier,Frosinone,8,8,8,8,18,18,C,Y,N,N,0,
-5422,C,E,,,Zalewski,Roma,8,8,9,9,10,10,B,N,N,N,0,
-5504,C,M,C,,Coulibaly L.,Salernitana,8,8,9,9,10,13,D,N,N,N,0,
-5688,C,M,C,,Harroui,Frosinone,8,4,8,5,22,27,C,Y,Y,Y,0,
-5788,C,T,A,,Sabiri,Fiorentina,8,9,8,9,7,5,B,N,N,N,15,
-148,C,M,C,,Krunic,Milan,7,6,8,7,12,14,B,Y,N,N,0,
-468,C,M,C,,Paredes,Roma,7,7,8,8,13,14,D,Y,N,N,0,
-788,C,M,C,,Freuler,Bologna,7,7,8,8,15,16,C,Y,N,N,0,
-801,C,M,C,,Gagliardini,Monza,7,6,8,7,12,14,C,Y,N,N,0,
-2117,C,C,T,,Kastanos,Salernitana,7,7,7,7,12,12,D,Y,N,Y,0,
-4681,C,M,C,,Lopez M.,Fiorentina,7,8,8,9,22,25,C,Y,N,Y,0,
-4992,C,W,A,,Gyasi,Empoli,7,8,7,8,8,8,C,Y,N,N,0,
-5791,C,E,M,,Frendrup,Genoa,7,5,8,7,13,16,D,Y,N,N,0,
-6054,C,M,C,,Moro N.,Bologna,7,6,7,6,12,14,D,Y,N,N,0,
-6394,C,M,C,,Ramadani,Lecce,7,6,8,7,11,13,D,Y,N,N,0,
-65,C,T,,,Mancosu,Cagliari,6,7,5,6,6,6,,N,N,Y,20,
-181,C,M,C,,Vecino,Lazio,6,6,7,7,7,8,C,N,N,N,0,
-470,C,M,C,,Strootman,Genoa,6,6,7,7,8,9,C,Y,N,N,0,
-526,C,C,,,Duncan,Fiorentina,6,5,6,4,9,10,D,Y,N,N,0,
-666,C,C,,,Machin,Monza,6,5,5,4,6,5,D,N,N,N,0,
-1978,C,C,T,,Sensi,Inter,6,7,6,7,10,10,D,N,N,N,0,
-2008,C,M,C,,Linetty,Torino,6,5,6,6,6,7,B,N,N,N,0,
-2392,C,M,C,,Walace,Udinese,6,7,7,8,9,10,C,Y,N,N,0,
-4947,C,M,C,,Brescianini,Frosinone,6,5,6,6,4,6,C,N,N,N,0,
-5298,C,C,,,Pobega,Milan,6,5,5,4,8,8,D,N,N,N,0,
-5423,C,C,,,Bove,Roma,6,5,6,5,7,7,C,N,N,N,0,
-5784,C,C,W,T,Aebischer,Bologna,6,5,6,5,9,12,D,Y,N,N,0,
-5844,C,C,T,,Thorstvedt,Sassuolo,6,6,6,6,7,7,D,Y,N,N,0,
-5869,C,M,C,,Blin,Lecce,6,6,6,6,5,6,D,N,N,Y,0,
-5999,C,C,,,Gonzalez J.,Lecce,6,7,6,7,9,9,D,Y,N,N,0,
-6061,C,W,T,,Oudin,Lecce,6,6,5,5,9,8,D,Y,N,N,0,
-6206,C,C,,,Fabbian,Bologna,6,5,6,5,18,18,D,N,N,N,0,
-6222,C,C,T,,Rafia,Lecce,6,3,6,3,16,16,C,Y,Y,Y,0,
-6402,C,M,C,,Cajuste,Napoli,6,7,7,8,12,14,D,N,N,N,0,
-6410,C,M,C,,Kaba,Lecce,6,5,6,6,7,8,D,Y,N,N,0,
-27,C,M,,,Grassi,Empoli,5,5,5,5,6,8,D,Y,N,Y,0,
-170,C,M,C,,Badelj,Genoa,5,5,6,6,7,8,D,Y,N,N,0,
-1976,C,M,C,,Mazzitelli,Frosinone,5,4,6,5,6,8,D,N,Y,Y,0,
-2692,C,W,,,Castillejo,Sassuolo,5,5,4,4,9,7,D,N,N,N,0,
-5499,C,M,C,,Hongla,Verona,5,4,6,5,4,6,D,Y,N,N,15,
-5813,C,C,T,,Miretti,Juventus,5,5,5,5,11,11,C,N,N,N,0,
-6010,C,C,T,,Fazzini,Empoli,5,6,5,6,10,10,D,N,N,N,0,
-6112,C,W,,,Iling Junior,Juventus,5,4,4,3,12,12,D,N,N,N,0,
-6218,C,W,T,A,Oristanio,Cagliari,5,4,7,7,12,14,D,N,N,N,0,
-6219,C,M,C,,Boloca,Sassuolo,5,6,6,7,12,14,D,Y,N,N,0,
-6232,C,M,C,,Makoumbou,Cagliari,5,5,6,6,8,10,D,Y,N,N,0,
-6448,C,T,,,Martegani,Salernitana,5,4,4,3,6,5,D,N,N,N,0,
-6458,C,C,T,,Serdar,Verona,5,5,5,5,7,7,C,N,N,N,0,
-6481,C,C,T,,Payero,Udinese,5,5,5,5,8,8,C,N,N,N,0,
-694,C,W,,,Baez,Frosinone,4,3,4,3,6,6,D,N,N,N,0,
-1871,C,M,C,,Deiola,Cagliari,4,4,4,4,5,6,D,Y,N,N,0,
-2825,C,M,C,,Bourabia,Frosinone,4,4,5,5,8,10,D,Y,N,N,0,
-4459,C,M,C,,Rovella,Lazio,4,5,5,6,10,12,C,Y,N,N,0,
-4892,C,W,,,Saelemaekers,Bologna,4,5,4,5,7,7,D,N,N,N,20,
-4896,C,T,A,,Maldini,Empoli,4,5,4,5,9,7,D,N,N,N,15,
-5267,C,M,C,,Racic,Sassuolo,4,4,5,5,8,10,D,N,N,N,0,
-5397,C,C,T,,Kovalenko,Empoli,4,4,4,4,7,7,D,N,N,N,0,
-5457,C,C,,,Maleh,Empoli,4,5,3,4,4,4,D,N,N,N,0,
-5798,C,M,C,,Bohinen,Salernitana,4,4,4,4,6,7,D,Y,N,N,0,
-5884,C,C,,,Ranocchia F.,Empoli,4,5,3,4,6,6,D,Y,N,N,0,
-6393,C,W,T,,Infantino,Fiorentina,4,5,5,6,10,12,C,N,N,N,0,
-6479,C,M,C,,Kutlu,Genoa,4,4,5,5,6,7,D,N,N,N,0,
-6480,C,W,,,Tchatchoua,Verona,4,4,3,3,5,4,D,N,N,N,20,
-2161,C,M,C,,Haas,Empoli,3,4,4,5,4,3,D,N,N,N,0,
-2183,C,W,T,,Garritano,Frosinone,3,3,3,3,4,4,D,N,N,N,0,
-4787,C,C,W,T,Quina,Udinese,3,4,4,5,4,6,C,N,N,N,0,
-4870,C,M,C,,Adopo,Atalanta,3,2,3,2,4,5,D,N,N,N,0,
-4988,C,C,,,Maggiore,Salernitana,3,3,3,3,4,3,D,N,N,N,15,
-5510,C,W,,,Romero L.,Milan,3,4,3,4,8,8,D,N,N,N,0,
-5674,C,C,,,Basic,Lazio,3,4,3,4,6,5,D,N,N,N,0,
-5719,C,M,C,,Asllani,Inter,3,4,4,5,8,10,D,N,N,N,0,
-5919,C,W,,,Tchaouna,Salernitana,3,3,2,2,5,3,D,N,N,N,0,
-6024,C,M,C,,Sulemana I.,Cagliari,3,3,2,2,4,5,D,Y,N,N,0,
-6175,C,M,C,,Barrenechea,Frosinone,3,2,4,3,6,8,D,N,N,N,0,
-6241,C,C,W,T,Gelli,Frosinone,3,1,3,1,1,1,D,N,N,N,0,
-6252,C,C,T,,Folorunsho,Verona,3,2,3,2,12,12,D,N,N,N,0,
-6486,C,C,W,T,Suslov,Verona,3,3,5,5,5,7,D,N,N,N,0,
-4364,C,C,T,,Gaetano,Napoli,2,3,2,3,4,4,D,N,N,N,0,
-4384,C,C,,,Jagiello,Genoa,2,3,2,3,5,4,D,N,N,N,0,
-4501,C,M,C,,Obiang,Sassuolo,2,3,2,3,3,3,D,N,N,N,0,
-5286,C,M,C,,Akpa Akpro,Monza,2,3,2,3,3,3,D,N,N,N,0,
-5425,C,C,T,,Urbanski,Bologna,2,1,2,1,2,2,D,N,N,N,0,
-5735,C,T,,,Volpato,Sassuolo,2,3,2,3,4,4,D,N,N,N,0,
-5879,C,T,A,,Vignato S.,Monza,2,1,2,1,1,1,D,N,N,N,0,
-5947,C,C,,,Hrustic,Verona,2,3,2,3,4,3,D,N,N,N,0,
-6212,C,C,,,Zarraga,Udinese,2,3,2,3,4,3,D,N,N,N,0,
-6221,C,M,C,,Camara E.,Udinese,2,3,3,4,4,5,D,N,N,N,0,
-6236,C,M,C,,Amatucci,Fiorentina,2,1,2,1,1,2,D,N,N,N,0,
-440,C,C,,,Viola,Cagliari,1,2,1,2,4,4,D,N,N,N,0,
-500,C,C,,,Lulic K.,Frosinone,1,2,1,2,3,3,D,N,N,N,0,
-2076,C,M,C,,Rog,Cagliari,1,1,1,1,1,1,D,N,N,N,150,
-4349,C,M,C,,Nicolussi Caviglia,Juventus,1,2,1,2,2,2,D,N,N,N,0,
-4725,C,M,,,Demme,Napoli,1,1,1,1,1,1,D,N,N,N,0,
-5824,C,T,A,,Pafundi,Udinese,1,1,1,1,1,1,D,N,N,N,0,
-5875,C,T,,,Adli,Milan,1,1,1,1,3,3,D,N,N,N,0,
-5992,C,C,T,,Bondo,Monza,1,1,1,1,1,1,D,N,N,N,0,
-5998,C,W,,,Zerbin,Napoli,1,1,1,1,1,1,D,N,N,N,0,
-6106,C,T,A,,Carboni V.,Monza,1,2,1,2,4,3,D,N,N,N,0,
-6168,C,M,C,,Faticanti,Lecce,1,1,1,1,6,6,D,N,N,N,0,
-6170,C,C,,,Gineitis,Torino,1,1,1,1,1,1,D,N,N,N,0,
-6203,C,M,C,,Belardinelli,Empoli,1,2,1,2,3,3,D,N,N,N,0,
-6225,C,M,C,,El Azzouzi,Bologna,1,1,1,1,2,2,A,N,N,N,0,
-6246,C,M,C,,Lipani,Sassuolo,1,1,1,1,1,1,A-,N,N,N,0,
-6254,C,M,C,,Joselito,Verona,1,1,1,1,1,1,B,N,N,N,0,
-6420,C,C,T,,Pagano,Roma,1,1,1,1,1,1,A,N,N,N,0,
-6423,C,M,C,,Legowski,Salernitana,1,1,1,1,1,1,A,N,N,N,0,
-6424,C,M,C,,Prati,Cagliari,1,2,2,3,4,5,A-,N,N,N,0,
-4661,A,Pc,,,Osimhen,Napoli,44,43,44,43,442,438,A,Y,Y,N,0,
-2764,A,Pc,,,Martinez L.,Inter,40,37,40,37,436,436,A-,Y,Y,N,0,
-4510,A,A,,,Rafael Leao,Milan,32,31,32,31,261,261,A,Y,N,N,0,
-785,A,Pc,,,Immobile,Lazio,31,32,31,32,327,317,B,Y,Y,N,0,
-531,A,A,,,Berardi,Sassuolo,30,30,30,30,259,260,B,Y,Y,Y,0,
-2531,A,Pc,,,Lukaku,Roma,30,31,30,31,312,303,B,Y,Y,N,0,
-5839,A,A,,,Kvaratskhelia,Napoli,30,31,30,31,261,265,C,Y,Y,Y,0,
-309,A,A,,,Dybala,Roma,28,30,28,30,286,292,B,Y,Y,Y,0,
-2841,A,Pc,,,Vlahovic,Juventus,28,28,28,28,360,350,B,Y,Y,Y,0,
-4200,A,Pc,,,Giroud,Milan,28,24,28,24,194,185,B,Y,Y,N,0,
-2137,A,Pc,,,Scamacca,Atalanta,27,25,27,25,220,195,B,Y,Y,N,0,
-5672,A,Pc,,,Dia,Salernitana,26,26,26,26,197,190,B,Y,Y,N,0,
-4871,A,Pc,,,Thuram,Inter,25,23,25,23,180,185,C,Y,N,N,0,
-4730,A,A,,,Lookman,Atalanta,24,26,24,26,155,165,C,Y,Y,N,0,
-479,A,Pc,,,Sanabria,Torino,23,24,23,24,71,60,A-,Y,Y,N,20,
-4268,A,Pc,,,Arnautovic,Inter,23,23,23,23,122,131,B,Y,Y,N,0,
-6228,A,Pc,,,Retegui,Genoa,23,23,23,23,128,128,A-,Y,Y,N,0,
-5336,A,Pc,,,Nzola,Fiorentina,22,23,22,23,81,80,C,Y,Y,N,0,
-6060,A,A,,,Lauriente',Sassuolo,21,21,21,21,115,120,B,Y,Y,N,0,
-608,A,Pc,,,Zapata D.,Torino,19,19,19,19,180,170,C,Y,Y,N,0,
-2002,A,A,,,Chiesa,Juventus,19,17,19,17,125,130,C,Y,N,Y,0,
-2012,A,Pc,,,Milik,Juventus,18,18,17,17,95,82,D,Y,Y,N,0,
-4179,A,A,,,Gonzalez N.,Fiorentina,17,15,17,15,95,100,C,Y,Y,N,0,
-6227,A,Pc,,,Okafor,Milan,16,16,15,15,60,54,D,N,N,N,0,
-6229,A,Pc,,,Toure' E.,Atalanta,15,16,14,15,45,45,B,N,N,N,90,
-6409,A,Pc,,,Beltran L.,Fiorentina,15,16,15,16,61,60,A,Y,N,N,0,
-1939,A,Pc,,,Lapadula,Cagliari,14,15,14,15,38,35,F,Y,Y,N,60,
-1958,A,A,,,Caprari,Monza,14,14,14,14,48,50,D,Y,Y,Y,0,
-2475,A,A,,,Sanchez,Inter,14,15,14,15,44,44,C,N,N,N,0,
-2544,A,Pc,,,Abraham,Roma,14,15,14,15,50,45,C,N,N,N,140,
-2819,A,Pc,,,Caputo,Empoli,14,15,14,15,52,48,B,Y,Y,N,0,
-6145,A,A,,,Ngonge,Verona,14,12,14,12,50,52,D,Y,N,N,0,
-507,A,Pc,,,Muriel,Atalanta,13,14,12,13,38,29,,N,N,Y,0,
-2038,A,Pc,,,Pinamonti,Sassuolo,13,13,12,12,40,32,C,Y,Y,N,0,
-2119,A,A,,,Deulofeu,Udinese,13,14,13,14,20,24,C,Y,Y,Y,40,
-2438,A,Pc,,,Jovic,Milan,13,14,12,13,28,20,C,N,N,N,0,
-2719,A,A,,,Barrow,Bologna,13,14,13,14,11,11,C,N,N,N,0,
-5086,A,Pc,,,Zirkzee,Bologna,13,11,12,10,71,65,D,Y,Y,N,0,
-6435,A,Pc,,,Krstovic,Lecce,13,11,13,11,32,25,C,Y,N,N,0,
-383,A,Pc,,,Petagna,Cagliari,12,13,12,13,32,27,B,Y,Y,N,0,
-441,A,Pc,,,Belotti,Roma,12,9,11,8,52,45,D,N,N,N,0,
-2061,A,Pc,,,Simeone,Napoli,12,13,11,12,30,23,C,N,N,N,0,
-4436,A,A,,,Cambiaghi,Empoli,12,12,12,12,28,30,B,Y,Y,N,0,
-5311,A,Pc,,,Shomurodov,Cagliari,12,13,12,13,22,20,B,N,N,N,0,
-5795,A,Pc,,,Azmoun,Roma,12,13,11,12,40,45,C,N,N,N,0,
-6226,A,Pc,,,Castellanos,Lazio,12,13,11,12,28,22,,N,N,N,0,
-2369,A,A,,,Thauvin,Udinese,11,11,11,11,16,18,D,Y,Y,Y,0,
-2489,A,A,,,Pedro,Lazio,11,12,11,12,18,18,B,N,N,N,0,
-4184,A,W,A,,Brekalo,Fiorentina,11,11,13,13,17,17,C,Y,N,N,0,
-5529,A,Pc,,,Henry,Verona,11,12,10,11,6,6,,N,N,N,45,
-6205,A,Pc,,,Mulattieri,Sassuolo,11,11,10,10,22,20,C,N,N,N,0,
-6207,A,A,,,Almqvist,Lecce,11,10,11,10,26,30,D,Y,N,N,0,
-6398,A,A,,,Isaksen,Lazio,11,12,11,12,21,21,B,N,N,N,0,
-6459,A,A,,,Karlsson,Bologna,11,11,11,11,25,25,D,Y,Y,N,0,
-2097,A,Pc,,,Kean,Juventus,10,11,9,10,20,17,C,N,N,N,0,
-2325,A,A,,,Karamoh,Torino,10,10,10,10,6,6,D,N,N,N,0,
-5471,A,Pc,,,Djuric,Verona,10,9,9,8,10,8,D,Y,Y,N,0,
-5637,A,Pc,,,Davis K.,Udinese,10,10,10,10,24,22,D,N,N,N,0,
-5882,A,A,,,Mota,Monza,10,11,10,11,16,18,C,Y,N,N,0,
-6213,A,Pc,,,Brenner,Udinese,10,11,9,10,12,10,D,N,N,N,150,
-6439,A,Pc,,,Cheddira,Frosinone,10,11,10,11,28,22,D,Y,Y,N,0,
-643,A,A,,,Defrel,Sassuolo,9,9,9,9,12,13,D,N,N,N,0,
-4371,A,A,,,Raspadori,Napoli,9,10,9,10,35,37,D,N,N,N,0,
-4923,A,Pc,,,Colombo,Monza,9,10,8,9,40,33,D,Y,Y,N,0,
-5297,A,A,,,Luvumbo,Cagliari,9,8,9,8,9,9,D,Y,N,N,0,
-6001,A,A,,,Banda,Lecce,9,8,9,8,12,12,D,Y,Y,N,0,
-505,A,A,,,Bonazzoli,Verona,8,7,8,7,8,8,C,Y,Y,N,0,
-2103,A,Pc,,,Pellegri,Torino,8,8,7,7,10,7,D,N,N,N,0,
-2762,A,A,,,Kouame',Fiorentina,8,9,8,9,8,9,D,N,N,N,0,
-4359,A,Pc,,,Piccoli,Lecce,7,7,6,6,8,7,D,N,N,N,0,
-5676,A,A,,,Success,Udinese,7,7,7,7,9,9,D,Y,N,N,0,
-5842,A,Pc,,,Botheim,Salernitana,7,8,6,7,10,8,D,N,Y,N,0,
-6215,A,Pc,,,Lucca,Udinese,7,6,6,5,20,15,D,Y,N,N,0,
-5364,A,A,,,Caso,Frosinone,6,6,6,6,12,12,D,Y,N,Y,0,
-5500,A,A,,,Cancellieri,Empoli,5,5,5,5,8,8,D,Y,N,N,0,
-5807,A,A,,,Jovane,Salernitana,5,5,5,5,8,8,D,N,N,N,0,
-247,A,Pc,,,Pavoletti,Cagliari,4,4,3,3,6,4,D,N,Y,N,5,
-5734,A,W,A,,Soule',Frosinone,4,4,5,5,14,14,D,Y,N,N,0,
-5845,A,Pc,,,Alvarez A.,Sassuolo,4,5,3,4,5,4,D,N,N,N,90,
-6214,A,Pc,,,Cuni,Frosinone,4,4,3,3,5,5,D,N,N,N,0,
-5506,A,A,,,Ekuban,Genoa,3,1,3,1,2,2,D,N,N,N,0,
-5806,A,A,,,Seck,Torino,3,3,3,3,3,3,D,N,N,N,0,
-6204,A,A,,,Kvernadze,Frosinone,3,3,3,3,6,6,D,N,N,N,0,
-472,A,Pc,,,Destro,Empoli,2,1,2,1,1,1,D,Y,N,N,0,
-5446,A,Pc,,,Van Hooijdonk,Bologna,2,3,2,3,5,5,D,N,N,N,0,
-5776,A,A,,,Ceide,Sassuolo,2,1,2,1,1,1,D,N,N,N,0,
-6250,A,Pc,,,Maric,Monza,2,1,2,1,1,1,D,N,N,N,0,
-6395,A,Pc,,,Shpendi S.,Empoli,2,1,2,1,1,1,D,N,N,N,0,
-6425,A,Pc,,,Ikwuemesi,Salernitana,2,1,2,1,2,2,D,N,N,N,0,
-281,A,Pc,,,Puscas,Genoa,1,2,1,1,2,1,D,N,N,N,0,
-5060,A,A,,,Ake' M.,Udinese,1,1,1,1,2,2,D,N,N,N,0,
-5391,A,Pc,,,Kokorin,Fiorentina,1,1,1,1,1,1,D,N,N,N,0,
-5395,A,A,,,Braaf,Verona,1,1,1,1,1,1,D,N,N,N,10,
-5439,A,A,,,Kallon,Verona,1,2,1,2,2,2,D,N,N,N,0,
-5505,A,Pc,,,Kaio Jorge,Frosinone,1,1,1,1,9,8,D,N,N,N,0,
-5843,A,A,,,Valencia D.,Salernitana,1,1,1,1,1,1,D,N,N,N,0,
-6011,A,A,,,Ekong,Empoli,1,1,1,1,1,1,D,N,N,N,0,
-6160,A,Pc,,,Vivaldo,Udinese,1,1,1,1,1,1,D,N,N,N,0,
-6242,A,A,,,Bidaoui,Frosinone,1,1,1,1,1,1,D,N,N,N,0,
-6247,A,Pc,,,Yalcin,Genoa,1,1,1,1,1,1,D,N,N,N,0,
-6418,A,Pc,,,Burnete,Lecce,1,1,1,1,2,2,,,,,,
-6419,A,A,,,Corfitzen,Lecce,1,1,1,1,1,1,,,,,,
-6427,A,Pc,,,Stewart,Salernitana,1,1,1,1,1,1,,,,,,
-6434,A,A,,,Yildiz,Juventus,1,1,1,1,1,1,,,,,,
+id,ruolo_classic,role_1_mantra,role_2_mantra,role_3_mantra,name,team,curr_value_classic,base_value_classic,curr_value_mantra,base_value_mantra,value_classic_1000,value_mantra_1000,rating,first_team,penalty_taker,free_kick_taker,injured,notes,played_2223,goals_2223,assist_2223,penalties_goals_2223,penalties_failed_2223,average_2223,played_2122,goals_2122,assist_2122,penalties_goals_2122,penalties_failed_2122,average_2122,played_2021,goals_2021,assist_2021,penalties_goals_2021,penalties_failed_2021,average_2021
+4312,P,Por,,,Maignan,Milan,17,17,17,17,89,89,A-,Y,N,N,0,,22,0,0,0,0,"5,34",32,0,1,0,0,"5,62",-1,-1,-1,-1,-1,-1
+572,P,Por,,,Meret,Napoli,16,17,16,17,80,80,A,Y,N,N,0,,34,0,0,0,0,"5,56",7,0,0,0,0,5,22,0,0,0,0,"4,89"
+2428,P,Por,,,Sommer,Inter,16,15,16,15,67,67,A-,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+453,P,Por,,,Szczesny,Juventus,15,15,15,15,71,71,C,Y,N,N,0,,28,0,0,0,0,"5,18",33,0,0,0,0,"5,48",30,0,1,0,0,"5,38"
+2814,P,Por,,,Provedel,Lazio,15,16,15,16,60,60,A-,Y,N,N,0,,38,0,0,0,0,"5,46",31,0,0,0,0,"4,48",29,0,0,0,0,"4,24"
+4270,P,Por,,,Rui Patricio,Roma,12,14,12,14,47,47,B,Y,N,N,0,,35,0,0,0,0,"5,07",38,0,0,0,0,"5,09",-1,-1,-1,-1,-1,-1
+5876,P,Por,,,Di Gregorio,Monza,12,12,12,12,37,37,C,Y,N,N,0,,37,0,1,0,0,"4,99",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+133,P,Por,,,Skorupski,Bologna,10,10,10,10,32,32,B,Y,N,N,0,,37,0,0,0,0,"4,97",36,0,0,0,0,"4,79",28,0,0,0,0,"4,64"
+2170,P,Por,,,Milinkovic-Savic V.,Torino,10,10,10,10,31,31,B,Y,N,N,0,,38,0,0,0,0,"4,89",27,0,0,0,0,"4,85",5,0,0,0,0,"4,6"
+2815,P,Por,,,Terracciano,Fiorentina,10,10,10,10,14,14,F,Y,N,N,0,,29,0,0,0,0,"4,78",32,0,0,0,0,"4,72",4,0,0,0,0,6
+4431,P,Por,,,Carnesecchi,Atalanta,10,11,10,11,10,16,B,Y,N,N,0,,27,0,1,0,0,"4,63",-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+2134,P,Por,,,Falcone,Lecce,9,8,9,8,22,22,D,Y,N,N,0,,38,0,0,0,0,"5,09",10,0,0,0,0,"4,95",-1,-1,-1,-1,-1,-1
+2211,P,Por,,,Silvestri,Udinese,9,9,9,9,31,31,D,Y,N,N,0,,38,0,0,0,0,"4,97",35,0,0,0,0,"4,73",34,0,0,0,0,"4,9"
+6120,P,Por,,,Ochoa,Salernitana,9,9,9,9,30,30,C,Y,N,N,0,,20,0,0,0,0,"4,95",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+3,P,Por,,,Radunovic,Cagliari,8,8,8,8,13,13,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,3,0,0,0,0,"5,67",0,0,0,0,0,0
+4957,P,Por,,,Montipo',Verona,8,7,8,7,13,13,D,Y,N,N,0,,37,0,0,0,0,"4,66",34,0,0,0,0,"4,69",37,0,0,0,0,"3,97"
+5116,P,Por,,,Martinez Jo.,Genoa,8,8,8,8,17,17,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4360,P,Por,,,Caprile,Empoli,6,7,6,7,10,10,D,Y,N,N,40,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+509,P,Por,,,Consigli,Sassuolo,5,5,5,5,15,15,C,Y,N,N,0,,35,0,0,0,0,"4,47",37,0,0,0,0,"4,62",37,0,0,0,0,"4,93"
+2792,P,Por,,,Musso,Atalanta,5,3,5,3,28,28,C,Y,N,N,0,,23,0,0,0,0,"4,85",33,0,0,0,0,"4,79",35,0,0,0,0,"4,6"
+4867,P,Por,,,Turati,Frosinone,5,5,5,5,8,8,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0
+218,P,Por,,,Perin,Juventus,3,1,3,1,5,5,D,N,N,N,0,,11,0,0,0,0,"6,05",5,0,0,0,0,"4,7",32,0,0,0,0,"4,83"
+316,P,Por,,,Berisha,Empoli,3,1,3,1,5,5,D,N,N,N,0,,0,0,0,0,0,0,10,0,0,0,0,"5,55",-1,-1,-1,-1,-1,-1
+2178,P,Por,,,Cragno,Sassuolo,3,4,3,4,8,8,D,N,N,N,0,,1,0,0,0,0,2,35,0,0,0,0,"4,57",34,0,0,0,0,"4,79"
+2294,P,Por,,,Cerofolini,Frosinone,2,1,2,1,1,1,D,N,N,N,0,,5,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6403,P,Por,,,Christensen O.,Fiorentina,2,3,2,3,16,16,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4,P,Por,,,Sportiello,Milan,1,1,1,1,1,1,D,N,N,N,0,,15,0,0,0,0,"4,73",5,0,0,0,0,"5,3",15,0,0,0,0,"5,03"
+41,P,Por,,,Mirante,Milan,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,"4,85"
+159,P,Por,,,Sepe,Lazio,1,1,1,1,1,1,D,N,N,N,0,,17,0,0,0,0,"5,15",16,0,0,0,0,"4,66",36,0,0,0,0,"3,89"
+188,P,Por,,,Leali,Genoa,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+217,P,Por,,,Lamanna,Monza,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+219,P,Por,,,Sommariva,Genoa,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+510,P,Por,,,Pegolo,Sassuolo,1,1,1,1,1,1,D,N,N,N,0,,2,0,0,0,0,"4,75",1,0,0,0,0,3,1,0,0,0,0,"6,5"
+511,P,Por,,,Perilli,Verona,1,1,1,1,1,1,D,N,N,N,0,,1,0,0,0,0,"6,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+543,P,Por,,,Padelli,Udinese,1,1,1,1,1,1,D,N,N,N,10,,0,0,0,0,0,0,3,0,0,0,0,"3,5",1,0,0,0,0,5
+574,P,Por,,,Scuffet,Cagliari,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0,1,0,0,0,0,3
+610,P,Por,,,Gollini,Napoli,1,1,1,1,1,1,D,N,N,N,0,,7,0,0,0,0,"5,21",-1,-1,-1,-1,-1,-1,25,0,0,0,0,"5,26"
+673,P,Por,,,Perisan,Empoli,1,2,1,2,1,1,D,N,N,N,0,,7,0,0,0,0,"4,93",-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+761,P,Por,,,Audero,Inter,1,1,1,1,1,1,D,N,N,N,0,,25,0,0,0,0,"4,88",29,0,0,0,0,"4,53",37,0,1,0,0,"5,11"
+1926,P,Por,,,Di Gennaro,Inter,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1930,P,Por,,,Pinsoglio,Juventus,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,1,0,0,0,0,"5,5",1,0,0,0,0,5
+1946,P,Por,,,Aresti,Cagliari,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0
+1947,P,Por,,,Fiorillo,Salernitana,1,1,1,1,1,1,D,N,N,N,0,,1,0,0,0,0,4,1,0,0,0,0,1,-1,-1,-1,-1,-1,-1
+2297,P,Por,,,Rossi F.,Atalanta,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0
+2338,P,Por,,,Costil,Salernitana,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2722,P,Por,,,Ravaglia F.,Bologna,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,4,0,0,0,0,"3,38"
+2799,P,Por,,,Frattali,Frosinone,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2845,P,Por,,,Contini,Napoli,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4351,P,Por,,,Brancolini,Lecce,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+4491,P,Por,,,Berardi A.,Verona,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,1,0,0,0,0,"3,5",1,0,0,0,0,6
+4525,P,Por,,,Gemello,Torino,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,1,0,0,0,0,"6,5",-1,-1,-1,-1,-1,-1
+5304,P,Por,,,Boer,Roma,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5822,P,Por,,,Bagnolini,Bologna,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5841,P,Por,,,Svilar,Roma,1,1,1,1,1,1,D,N,N,N,0,,3,0,0,0,0,"4,83",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5853,P,Por,,,Sorrentino A.,Monza,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6184,P,Por,,,Martinelli T.,Fiorentina,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6210,P,Por,,,Popa,Torino,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6234,P,Por,,,Stubljar,Empoli,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6255,P,Por,,,Gori,Monza,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6406,P,Por,,,Borbei,Lecce,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6462,P,Por,,,Okoye,Udinese,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6482,P,Por,,,Mandas,Lazio,1,1,1,1,1,1,A,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+254,D,E,,,Dimarco,Inter,20,19,19,18,81,72,A,Y,N,Y,0,Gioca Punta,33,4,4,0,0,"6,7",25,2,3,0,1,"6,34",35,5,3,0,0,"6,57"
+2816,D,Dd,E,,Di Lorenzo,Napoli,20,18,20,18,96,96,A,Y,N,N,0,,37,3,4,0,0,"6,58",33,1,4,0,0,"6,36",36,3,3,0,0,"6,15"
+4292,D,Ds,E,,Hernandez T.,Milan,18,17,18,17,90,90,B,Y,Y,Y,0,,32,4,3,1,0,"6,41",32,5,5,1,1,"6,69",33,7,5,0,0,"6,86"
+5877,D,E,,,Carlos Augusto,Inter,17,17,17,17,42,30,A-,N,N,N,0,,35,6,5,0,0,"6,76",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4237,D,Dd,Ds,Dc,Danilo,Juventus,16,15,19,18,44,58,A-,Y,N,N,0,,37,3,3,0,0,"6,46",21,1,2,0,0,"6,24",34,1,4,0,0,"6,41"
+554,D,E,,,Zappacosta,Atalanta,15,15,14,14,41,38,A,Y,N,N,0,,21,4,1,0,0,"6,64",31,1,5,0,0,"6,24",25,4,2,0,0,"6,72"
+6041,D,Dc,,,Schuurs,Torino,15,14,15,14,46,46,B,Y,N,N,0,,29,0,2,0,0,"6,19",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6066,D,Dd,Dc,,Posch,Bologna,15,16,17,18,46,50,A-,Y,N,N,0,,30,6,2,0,0,"6,68",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2120,D,Dc,,,Bastoni,Inter,14,13,14,13,48,48,A,Y,N,N,0,,29,0,2,0,0,"6,14",31,1,2,0,0,"6,31",33,0,2,0,0,"6,08"
+4177,D,Dd,Dc,,Pavard,Inter,14,14,15,15,48,50,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4245,D,Dc,,,Smalling,Roma,14,15,14,15,46,50,A-,Y,N,N,0,,32,3,1,0,0,"6,52",25,3,0,0,0,"6,46",14,0,1,0,0,"5,89"
+4409,D,Dc,,,Rrahmani,Napoli,14,14,14,14,44,44,B,Y,N,N,0,,28,2,1,0,0,"6,36",33,4,0,0,0,"6,56",14,1,0,0,0,"6,29"
+5513,D,E,,,Dumfries,Inter,14,12,13,11,47,39,B,Y,N,N,0,,34,1,4,0,0,6,32,5,4,0,0,"6,77",-1,-1,-1,-1,-1,-1
+460,D,Dc,,,Romagnoli,Lazio,13,13,13,13,36,36,B,Y,N,N,0,,34,2,0,0,0,"6,29",17,1,0,0,0,6,22,1,1,0,0,6
+2788,D,Dc,,,Bremer,Juventus,13,13,13,13,48,48,,Y,N,N,0,,30,4,0,0,0,"6,35",33,3,1,0,0,"6,59",33,5,0,0,0,"6,5"
+4751,D,Dc,,,Tomori,Milan,13,13,13,13,43,43,B,Y,N,N,0,,33,1,0,0,0,"6,09",31,0,0,0,0,"6,23",17,1,0,0,0,"6,44"
+1852,D,E,,,Spinazzola,Roma,12,10,11,9,26,22,A-,Y,N,N,0,,26,1,4,0,0,"6,25",2,0,0,0,0,6,25,2,4,0,0,"6,52"
+2525,D,Dd,Dc,,Darmian,Inter,12,11,14,13,23,27,B,N,N,N,0,,27,1,2,0,0,"6,19",23,2,1,0,0,"6,35",23,3,3,0,0,"6,63"
+252,D,Ds,E,,Biraghi,Fiorentina,11,10,11,10,24,24,B,Y,N,Y,0,,32,2,4,0,1,"6,19",37,4,1,1,1,"6,11",35,1,5,0,0,"6,03"
+5067,D,E,,,Bakker,Atalanta,11,12,10,11,23,20,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5481,D,Dd,Ds,E,Mazzocchi,Salernitana,11,12,13,14,37,41,B,Y,N,N,0,,27,2,3,0,0,"6,46",32,0,2,0,0,"5,83",-1,-1,-1,-1,-1,-1
+5835,D,Dd,Dc,,Baschirotto,Lecce,11,10,12,11,32,35,C,Y,N,N,0,,37,3,0,0,0,"6,23",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5851,D,Ds,E,,Doig,Verona,11,11,11,11,20,20,B,Y,N,N,0,,21,2,4,0,0,"6,52",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6055,D,Dc,,,Thiaw,Milan,11,10,11,10,27,27,D,Y,N,N,0,,19,0,0,0,0,"5,79",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+142,D,Ds,E,,Mario Rui,Napoli,10,10,10,10,20,20,B,Y,N,Y,0,,22,0,5,0,0,"6,25",34,0,5,0,0,"6,07",24,0,1,0,0,"5,9"
+357,D,Dd,E,,Calabria,Milan,10,9,10,9,22,22,B,Y,N,N,0,,23,1,3,0,0,"6,09",26,2,2,0,0,"6,42",32,2,1,0,0,"6,28"
+513,D,Dc,,,Acerbi,Inter,10,11,10,11,32,32,C,Y,N,N,15,,31,0,1,0,0,"5,97",29,4,0,0,0,"6,31",32,0,1,0,0,"5,94"
+697,D,E,,,Cuadrado,Inter,10,9,9,8,34,28,B,Y,N,N,0,,30,1,3,0,0,"5,92",32,4,3,0,0,"6,62",29,2,9,1,0,"6,64"
+2164,D,Dc,,,Milenkovic,Fiorentina,10,10,10,10,26,26,A-,Y,N,N,0,,27,2,1,0,0,"6,06",34,1,0,0,0,"5,81",34,3,0,0,0,"5,97"
+2296,D,Dc,,,Mancini,Roma,10,11,10,11,26,26,B,Y,N,N,0,,35,1,2,0,0,"6,16",33,0,0,0,0,"5,64",33,4,2,0,0,"6,41"
+2724,D,Dc,,,Buongiorno,Torino,10,11,10,11,23,23,B,Y,N,N,0,,34,1,2,0,0,"6,15",18,0,1,0,0,"5,81",12,0,0,0,0,"5,5"
+5480,D,Dd,E,,Ebuehi,Empoli,10,11,10,11,17,17,C,Y,N,N,0,,25,2,4,0,0,"6,46",17,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1
+5498,D,Dc,,,Casale,Lazio,10,10,10,10,22,22,C,Y,N,N,0,,29,1,1,0,0,"6,03",34,0,1,0,0,"5,75",-1,-1,-1,-1,-1,-1
+5526,D,Dc,,,Scalvini,Atalanta,10,9,10,9,30,30,A-,Y,N,N,0,,32,2,0,0,0,"6,03",14,1,0,0,0,"6,14",-1,-1,-1,-1,-1,-1
+5678,D,E,,,Holm,Atalanta,10,10,9,9,20,18,B,N,N,N,0,,18,1,1,0,0,"6,17",0,0,0,0,0,0,-1,-1,-1,-1,-1,-1
+581,D,Dd,E,,Faraoni,Verona,9,9,9,9,16,16,D,Y,N,N,0,,21,2,2,0,0,"6,17",32,4,5,0,0,"6,48",34,4,5,0,0,"6,46"
+2640,D,Ds,Dc,,Kolasinac,Atalanta,9,9,10,10,22,27,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5677,D,Dc,,,Perez N.,Udinese,9,9,9,9,12,12,A-,Y,N,N,0,,33,2,0,0,0,6,20,0,1,0,0,"5,65",-1,-1,-1,-1,-1,-1
+5847,D,Dc,,,Bijol,Udinese,9,9,9,9,21,21,B,Y,N,N,0,,32,3,1,0,0,"6,03",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+322,D,Dc,,,De Vrij,Inter,8,6,8,6,13,13,C,N,N,N,0,,25,1,0,0,0,"5,98",28,0,0,0,0,"5,68",32,1,0,0,0,"6,28"
+695,D,Dc,,,Toloi,Atalanta,8,9,8,9,12,12,C,Y,N,N,0,,32,2,0,0,0,"6,05",19,1,1,0,0,"6,05",31,2,0,0,0,"5,97"
+787,D,Dc,,,Djimsiti,Atalanta,8,7,8,7,16,16,A-,Y,N,N,0,,22,0,1,0,0,"5,89",29,1,1,0,0,"5,84",33,0,2,0,0,"6,03"
+2169,D,Ds,Dc,,Rodriguez R.,Torino,8,8,9,9,10,12,C,Y,N,N,0,,34,0,0,0,0,"5,96",32,0,1,0,0,"5,84",16,0,0,0,0,"5,38"
+2593,D,Ds,E,,Martin,Genoa,8,8,8,8,12,12,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4317,D,Dc,,,N'dicka,Roma,8,9,8,9,20,20,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4530,D,Ds,E,,Kyriakopoulos,Monza,8,9,8,9,15,15,,Y,N,N,0,,21,1,3,0,0,"6,21",25,0,5,0,0,"5,92",21,1,0,0,0,"5,86"
+4904,D,Dc,,,Mari',Monza,8,9,8,9,18,18,C,Y,N,N,0,,29,1,0,0,0,"5,97",15,2,0,0,0,"6,57",-1,-1,-1,-1,-1,-1
+5332,D,Ds,E,,Bastoni S.,Empoli,8,8,8,8,32,32,C,N,N,N,0,,18,2,4,0,0,"6,5",29,3,3,0,0,"6,41",21,1,6,0,0,"6,26"
+6220,D,Dd,E,,Kristensen,Roma,8,9,8,9,15,15,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6396,D,Dc,,,Natan,Napoli,8,9,8,9,17,17,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+140,D,Dd,Ds,E,Hysaj,Lazio,7,7,8,8,15,18,B,Y,N,N,0,,30,1,1,0,0,"6,05",27,1,0,0,0,"5,69",21,0,1,0,0,"5,93"
+226,D,Dc,,,Izzo,Monza,7,8,7,8,18,18,C,Y,N,N,0,,29,1,0,0,0,"5,97",9,0,0,0,0,"5,61",25,2,0,0,0,"6,14"
+253,D,Dd,Ds,Dc,D'ambrosio,Monza,7,7,9,9,14,14,D,Y,N,N,20,,13,0,2,0,0,"5,96",15,1,1,0,0,"6,47",8,3,0,0,0,"7,12"
+393,D,Dc,,,Luperto,Empoli,7,8,7,8,10,10,C,Y,N,N,0,,36,2,0,0,0,"6,01",22,0,1,0,0,"5,61",22,0,0,0,0,"5,3"
+2188,D,Dd,Ds,E,Marusic,Lazio,7,7,8,8,15,20,C,Y,N,N,0,,33,0,2,0,0,"5,92",33,1,0,0,0,"5,65",36,2,3,0,0,"5,94"
+4210,D,Dc,,,Mina,Fiorentina,7,8,7,8,12,12,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4887,D,Dd,E,,Bellanova,Torino,7,8,7,8,25,26,D,Y,N,N,0,,11,0,0,0,0,6,31,1,1,0,0,"5,9",0,0,0,0,0,0
+4958,D,Ds,Dc,,Caldirola,Monza,7,7,8,8,10,12,C,Y,N,N,0,,30,2,0,0,0,"6,03",-1,-1,-1,-1,-1,-1,22,2,0,0,0,"5,91"
+4976,D,Dd,Dc,,Kalulu,Milan,7,7,8,8,15,17,C,N,N,N,0,,32,1,0,0,0,"5,78",24,1,2,0,0,"6,46",10,1,0,0,0,"5,9"
+5449,D,Ds,E,,Parisi,Fiorentina,7,8,7,8,20,20,D,Y,N,N,0,,33,2,0,0,0,"6,14",23,0,1,0,0,"5,85",-1,-1,-1,-1,-1,-1
+5520,D,Dd,Ds,E,Cambiaso,Juventus,7,5,7,6,22,27,B,Y,N,N,0,,31,0,3,0,0,"6,03",25,1,4,0,0,"6,12",-1,-1,-1,-1,-1,-1
+5532,D,Ds,E,,Bradaric,Salernitana,7,7,7,7,11,11,D,Y,N,Y,0,,30,0,3,0,0,"5,77",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5555,D,Ds,E,,Kamara H.,Udinese,7,6,7,6,10,10,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5840,D,Ds,E,,Olivera,Napoli,7,7,7,7,24,24,,Y,N,N,0,,24,2,1,0,0,"6,27",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5885,D,Dd,E,,Dodo',Fiorentina,7,8,7,8,22,22,C,N,N,N,0,,33,1,3,0,0,"5,98",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6042,D,Dc,,,Lucumi',Bologna,7,7,7,7,16,16,D,Y,N,N,0,,33,0,1,0,0,"5,68",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6046,D,Dc,,,Hien,Verona,7,8,7,8,15,15,C,Y,N,N,0,,32,0,0,0,0,"5,8",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6148,D,Ds,E,,Kristiansen,Bologna,7,6,7,6,22,22,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6426,D,Dd,E,,Pedersen,Sassuolo,7,7,7,7,10,10,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+76,D,Dc,,,Romagnoli S.,Frosinone,6,5,6,5,6,6,C,N,N,N,0,,4,0,0,0,0,"5,62",18,2,0,0,0,"6,03",-1,-1,-1,-1,-1,-1
+256,D,Ds,Dc,,Juan Jesus,Napoli,6,5,7,6,21,25,C,Y,N,N,0,,12,1,0,0,0,"6,25",15,1,0,0,0,"6,07",4,0,0,0,0,"5,75"
+660,D,Dc,,,Gyomber,Salernitana,6,6,6,6,7,7,C,Y,N,N,0,,23,0,1,0,0,"5,93",30,0,0,0,0,"5,57",-1,-1,-1,-1,-1,-1
+662,D,Ds,Dc,,Alex Sandro,Juventus,6,6,7,7,12,16,D,Y,N,N,0,,23,0,1,0,0,"5,52",27,0,1,0,0,"5,67",24,2,1,0,0,"6,23"
+2130,D,E,,,Hateboer,Atalanta,6,7,5,6,10,10,C,N,N,N,30,,17,1,1,0,0,"5,91",21,0,0,0,0,"5,74",22,2,1,0,0,"6,41"
+2181,D,Dc,,,Palomino,Atalanta,6,7,6,7,8,8,C,N,N,N,0,,14,1,0,0,0,"5,75",33,1,0,0,0,"6,09",31,1,1,0,0,"6,05"
+2252,D,Ds,Dc,,Marchizza,Frosinone,6,5,7,6,5,7,B,Y,N,N,0,,5,0,0,0,0,6,19,0,1,0,0,"5,47",22,0,2,0,0,"5,84"
+2263,D,Dd,E,,Lazzari,Lazio,6,5,6,5,16,16,D,N,N,N,0,,26,0,0,0,0,"5,77",27,3,3,0,0,"6,3",32,2,5,0,0,"6,34"
+4426,D,Dd,E,,Toljan,Sassuolo,6,6,6,6,9,9,C,Y,N,N,0,,31,0,1,0,0,"5,68",19,0,1,0,0,"5,84",24,0,2,0,0,"5,83"
+4461,D,Dd,E,,Zappa,Cagliari,6,6,6,6,14,14,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,21,0,0,0,0,"5,64",31,0,4,0,0,"5,94"
+4502,D,Ds,E,,Gallo,Lecce,6,5,6,5,9,9,B,Y,N,N,0,,31,0,1,0,0,"5,65",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4982,D,Dc,,,Erlic,Sassuolo,6,5,6,5,10,10,D,Y,N,N,0,,27,0,0,0,0,"5,59",30,2,0,0,0,"6,07",22,3,1,0,0,"6,14"
+4994,D,E,,,Vojvoda,Torino,6,6,6,5,16,12,C,Y,N,N,0,,27,0,5,0,0,"5,98",29,0,3,0,0,"6,07",19,2,2,0,0,"6,03"
+5239,D,Dc,,,Llorente D.,Roma,6,6,6,6,17,17,D,N,N,N,0,,8,0,0,0,0,"6,06",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5365,D,Dd,Dc,,Dragusin,Genoa,6,6,7,7,12,12,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,18,0,0,0,0,"5,67",0,0,0,0,0,0
+5514,D,Ds,Dc,,Vasquez,Genoa,6,4,7,5,7,7,C,Y,N,N,0,,23,1,0,0,0,"5,76",28,1,0,0,0,"5,88",-1,-1,-1,-1,-1,-1
+5718,D,Dc,,,Viti,Sassuolo,6,6,6,6,7,7,D,N,N,N,0,,0,0,0,0,0,0,19,0,0,0,0,"5,63",-1,-1,-1,-1,-1,-1
+5831,D,Dc,,,Gatti,Juventus,6,6,6,6,12,12,D,Y,N,N,0,,16,0,0,0,0,"5,81",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5838,D,Dd,Ds,E,Birindelli,Monza,6,5,7,6,5,6,D,Y,N,N,0,,30,0,2,0,0,"5,77",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5867,D,Dd,E,,Gendrey,Lecce,6,6,6,6,8,9,D,Y,N,N,0,,36,0,1,0,0,"5,85",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6202,D,Dc,,,Beukema,Bologna,6,6,6,6,22,22,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6211,D,Ds,E,,Zemura,Udinese,6,5,6,5,7,7,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6230,D,Dc,,,Dossena,Cagliari,6,6,6,6,7,7,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6231,D,Ds,E,,Azzi,Cagliari,6,5,6,5,10,10,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6464,D,Dc,,,Wieteska,Cagliari,6,5,6,5,7,7,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+49,D,Ds,Dc,,Masina,Udinese,5,6,6,7,7,8,D,Y,N,N,15,,11,2,0,0,0,"6,36",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+770,D,Ds,E,,Pezzella Giu.,Empoli,5,5,5,5,5,5,D,Y,N,N,0,,14,0,1,0,0,"5,71",16,0,2,0,0,6,24,1,4,0,0,"6,19"
+791,D,Dd,Ds,E,Sabelli,Genoa,5,4,6,5,12,12,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,7,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1
+2653,D,Ds,E,,Lykogiannis,Bologna,5,5,5,5,8,8,D,N,N,Y,0,,19,2,0,0,0,"6,21",25,1,0,0,0,"5,78",30,4,2,0,0,"6,1"
+2869,D,Dc,,,Djidji,Torino,5,6,5,6,7,7,D,Y,N,N,150,,32,1,0,0,0,"5,81",24,0,0,0,0,"5,75",18,1,0,0,0,"5,64"
+4263,D,Dc,,,Kabasele,Udinese,5,5,5,5,5,5,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4378,D,Ds,Dc,,Ranieri L.,Fiorentina,5,5,5,6,12,12,D,Y,N,N,0,,8,0,0,0,0,"6,19",27,1,0,0,0,"5,65",-1,-1,-1,-1,-1,-1
+4421,D,Ds,E,,Augello,Cagliari,5,5,5,5,12,12,D,Y,N,N,0,,37,2,5,0,0,"6,09",34,1,1,0,0,"5,93",37,1,3,0,0,"6,03"
+4433,D,Dd,Ds,E,Zortea,Atalanta,5,3,6,4,4,5,D,N,N,N,0,,15,1,1,0,0,"6,1",23,1,2,0,0,"5,96",-1,-1,-1,-1,-1,-1
+4493,D,Dc,,,Dawidowicz,Verona,5,4,5,4,5,5,,Y,N,N,0,,22,1,1,0,0,"5,8",15,0,0,0,0,"5,67",27,0,0,0,0,"5,72"
+4897,D,Dc,,,Pirola,Salernitana,5,5,5,5,10,10,D,Y,N,N,10,,25,2,0,0,0,"5,94",-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+4934,D,Dc,,,Lovato,Salernitana,5,4,5,4,6,6,D,N,N,N,0,,14,0,0,0,0,"5,5",21,0,0,0,0,"5,86",21,0,0,0,0,"5,81"
+4952,D,Dc,,,Monterisi,Frosinone,5,1,5,1,6,6,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5010,D,Dc,,,Ismajli,Empoli,5,5,5,5,9,9,D,Y,N,N,0,,25,0,0,0,0,"5,86",17,0,0,0,0,"5,06",16,1,1,0,0,"5,94"
+5323,D,Dc,,,Martinez Quarta,Fiorentina,5,6,5,6,7,7,D,Y,N,N,0,,27,1,1,0,0,"5,98",18,1,0,0,0,"5,75",19,1,0,0,0,"5,87"
+5354,D,Ds,E,,Ruggeri,Atalanta,5,3,6,4,10,8,D,N,N,N,0,,10,0,1,0,0,"5,8",13,0,0,0,0,"5,81",3,0,0,0,0,"5,5"
+5603,D,Dc,,,Pongracic,Lecce,5,5,5,5,6,6,D,Y,N,N,0,,9,0,0,0,0,"5,89",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5701,D,Dc,,,Obert,Cagliari,5,5,5,5,6,6,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,4,0,0,0,0,"5,88",-1,-1,-1,-1,-1,-1
+5747,D,Dc,,,Tressoldi,Sassuolo,5,5,5,5,7,7,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5848,D,Dd,E,,Ebosele,Udinese,5,4,5,4,6,6,D,Y,N,N,0,,10,0,1,0,0,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6438,D,Dd,Dc,,Hatzidiakos,Cagliari,5,5,5,5,7,7,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+327,D,Dd,Dc,,Patric,Lazio,4,5,5,6,5,6,C,N,N,N,0,,17,0,0,0,0,"6,09",21,1,1,0,0,"5,71",23,0,1,0,0,"5,59"
+2083,D,Dd,Dc,,Biraschi,Genoa,4,3,5,4,3,4,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,14,0,0,0,0,"5,46",13,0,0,0,0,"5,69"
+2728,D,Ds,E,,Pellegrini Lu.,Lazio,4,4,4,4,8,8,D,N,N,N,0,,3,0,0,0,0,"5,83",17,0,1,0,0,"5,97",11,0,1,0,0,"5,41"
+4385,D,E,,,Lazaro,Torino,4,4,4,4,8,8,D,N,N,N,0,,20,0,3,0,0,"6,05",0,0,0,0,0,0,-1,-1,-1,-1,-1,-1
+4945,D,Ds,E,,Calafiori,Bologna,4,4,4,4,7,7,D,Y,N,N,0,,0,0,0,0,0,0,4,0,1,0,0,"5,62",2,0,0,0,0,"5,5"
+5509,D,Ds,E,,Vina,Sassuolo,4,4,4,4,6,6,D,Y,N,N,0,,1,0,0,0,0,"5,5",23,0,1,0,0,"5,74",-1,-1,-1,-1,-1,-1
+5812,D,Dd,E,,Terracciano F.,Verona,4,3,4,3,7,7,C,N,N,N,0,,13,0,1,0,0,"6,12",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6047,D,Dd,E,,Ehizibue,Udinese,4,5,4,5,6,6,D,N,N,N,90,,21,2,0,0,0,"5,93",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6245,D,Dd,Dc,,Vogliacco,Genoa,4,5,5,6,4,4,C,N,N,N,10,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+418,D,Dc,,,Goldaniga,Cagliari,3,3,3,3,3,3,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,11,0,0,0,0,"5,5",24,0,1,0,0,"5,73"
+1895,D,Dc,,,Ferrari G.,Sassuolo,3,4,3,4,10,10,D,N,N,N,0,,27,1,0,0,0,"5,81",36,1,0,0,0,"5,75",34,0,2,0,0,"6,03"
+2006,D,Dd,E,,Lirola,Frosinone,3,3,3,3,5,5,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0,11,0,1,0,0,"5,86"
+2104,D,Dd,E,,Bereszynski,Empoli,3,3,3,3,4,4,D,N,N,N,0,,17,0,1,0,0,"5,71",35,0,3,0,0,"5,6",31,1,0,0,0,"5,9"
+2174,D,Dd,Ds,E,Venuti,Lecce,3,4,4,5,5,7,D,N,N,N,40,,16,0,0,0,0,"5,66",21,0,0,0,0,"5,6",24,0,1,0,0,"5,58"
+2180,D,Dd,E,,Karsdorp,Roma,3,2,3,2,2,2,D,N,N,N,0,,12,0,0,0,0,"5,71",35,0,2,0,0,6,34,1,6,0,0,"6,29"
+2285,D,Dc,,,Bani,Genoa,3,3,3,3,6,6,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,17,0,0,0,0,"5,97",25,0,0,0,0,"5,48"
+2633,D,Dc,,,Kjaer,Milan,3,4,3,4,8,8,D,N,N,N,0,,14,0,0,0,0,"5,82",10,0,0,0,0,"5,9",28,0,1,0,0,"6,25"
+2758,D,Dc,,,Gunter,Verona,3,4,3,4,4,4,D,N,N,N,0,,23,1,1,0,0,"5,7",30,0,0,0,0,"5,57",25,0,2,0,0,"5,98"
+2769,D,Dc,,,Magnani,Verona,3,3,3,3,4,4,D,Y,N,N,0,,24,0,1,0,0,"5,58",14,0,0,0,0,"5,61",23,0,0,0,0,"5,83"
+4891,D,Dc,,,Soumaoro,Bologna,3,4,3,4,5,5,D,N,N,N,120,,23,0,0,0,0,"5,89",27,0,0,0,0,"5,57",20,1,0,0,0,"5,88"
+4925,D,Ds,Dc,,Carboni A.,Monza,3,3,4,4,3,4,D,N,N,N,0,,3,0,0,0,0,"5,33",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5406,D,Dd,E,,Di Pardo,Cagliari,3,2,3,2,3,3,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+5527,D,Dd,E,,Zanoli,Napoli,3,4,3,4,6,6,D,N,N,N,0,,20,2,2,0,0,"6,32",6,0,0,0,0,"5,75",-1,-1,-1,-1,-1,-1
+5691,D,Dc,,,Zima,Torino,3,3,3,3,4,4,D,Y,N,N,0,,8,0,0,0,0,"5,81",18,0,0,0,0,"5,81",-1,-1,-1,-1,-1,-1
+5748,D,Dd,E,,Hefti,Genoa,3,3,3,3,4,4,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,16,0,0,0,0,"5,78",-1,-1,-1,-1,-1,-1
+5750,D,Dc,,,Ostigard,Napoli,3,4,3,4,9,9,D,Y,N,N,0,,6,0,0,0,0,"5,92",15,0,0,0,0,"5,43",-1,-1,-1,-1,-1,-1
+5856,D,Dd,E,,Sambia,Salernitana,3,4,3,4,5,5,D,N,N,N,0,,13,0,1,0,0,"5,92",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6217,D,Dc,,,Bisseck,Inter,3,4,3,4,6,6,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6257,D,Ds,E,,Dorgu,Lecce,3,1,3,1,8,8,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6465,D,Ds,Dc,,Touba,Lecce,3,3,3,3,5,5,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6474,D,Dc,,,Sazonov,Torino,3,3,3,3,4,4,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+294,D,Dc,,,Rugani,Juventus,2,3,2,3,6,6,D,N,N,N,0,,7,0,0,0,0,6,12,0,0,0,0,"5,88",12,1,1,0,0,"6,04"
+358,D,Dd,Ds,E,De Sciglio,Juventus,2,3,2,3,6,6,D,N,N,N,90,,17,0,0,0,0,"5,76",16,1,2,0,0,"6,25",1,0,0,0,0,6
+464,D,Dd,Ds,E,Florenzi,Milan,2,3,3,4,5,7,D,N,N,N,0,,4,0,0,0,0,"5,75",20,2,0,0,0,"6,4",0,0,0,0,0,0
+2016,D,Dc,,,Fazio,Salernitana,2,2,2,2,2,2,D,N,N,N,0,,12,1,0,0,0,"5,79",16,1,0,0,0,"5,78",5,1,0,0,0,"6,3"
+2192,D,Dc,,,Bonifazi,Bologna,2,3,2,3,3,3,D,N,N,N,0,,13,0,0,0,0,"5,65",17,0,0,0,0,"5,41",28,0,0,0,0,"5,8"
+4374,D,Dc,,,Walukiewicz,Empoli,2,3,2,3,4,4,D,Y,N,N,0,,9,0,0,0,0,"5,89",6,0,0,0,0,"5,58",19,0,1,0,0,"5,53"
+4495,D,Dc,,,Kumbulla,Roma,2,3,2,3,3,3,D,N,N,N,90,,5,0,0,0,0,"5,1",13,0,0,0,0,"5,58",19,1,0,0,0,"5,84"
+4657,D,Dd,E,,Celik,Roma,2,3,2,3,5,5,D,N,N,N,0,,21,0,1,0,0,"5,69",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5316,D,Ds,Dc,,Amione,Verona,2,3,3,4,5,6,D,N,N,N,0,,27,1,1,0,0,"5,63",0,0,0,0,0,0,0,0,0,0,0,0
+5554,D,Dd,Dc,,Daniliuc,Salernitana,2,3,2,3,4,5,D,Y,N,N,60,,27,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5695,D,Ds,E,,Haps,Genoa,2,2,2,2,4,4,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,25,1,1,0,0,"5,88",-1,-1,-1,-1,-1,-1
+5739,D,Dd,Dc,,De Winter,Genoa,2,3,2,3,6,8,D,N,N,N,0,,13,0,0,0,0,"5,62",0,0,0,0,0,0,-1,-1,-1,-1,-1,-1
+5757,D,Dc,,,Cittadini,Monza,2,3,2,3,4,4,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5764,D,Dc,,,Coppola D.,Verona,2,2,2,2,2,2,D,N,N,N,0,,16,0,0,0,0,"5,66",3,0,0,0,0,"5,83",-1,-1,-1,-1,-1,-1
+5804,D,Ds,E,,Cacace,Empoli,2,3,2,3,8,8,D,Y,N,N,0,,10,0,0,0,0,"5,6",8,0,0,0,0,"5,75",-1,-1,-1,-1,-1,-1
+5994,D,Ds,Dc,,Ebosse,Udinese,2,3,3,4,3,4,D,N,N,N,35,,14,0,0,0,0,"5,54",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6039,D,Ds,Dc,,Cabal,Verona,2,3,3,4,4,5,D,N,N,N,0,,9,0,0,0,0,"5,72",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6189,D,Dd,E,,Missori,Sassuolo,2,1,2,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6235,D,Dd,Ds,E,Kayode,Fiorentina,2,1,3,2,8,8,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6238,D,Dd,Ds,Dc,Oyono,Frosinone,2,1,2,1,8,12,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6256,D,Dd,E,,Ferreira J.,Udinese,2,1,2,1,1,1,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6407,D,Dd,Ds,E,Corazza,Bologna,2,1,2,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6485,D,Dc,,,Kristensen T.,Udinese,2,2,2,2,3,3,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+139,D,Dc,,,Dermaku,Lecce,1,1,1,1,1,1,D,N,N,N,0,,1,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,2,0,0,0,0,"5,75"
+144,D,Dc,,,Tonelli,Empoli,1,1,1,1,2,2,D,N,N,N,0,,1,0,0,0,0,"5,5",13,0,0,0,0,"5,19",22,1,0,0,0,"5,84"
+454,D,Dc,,,Capradossi,Cagliari,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"6,5"
+487,D,Dd,E,,De Silvestri,Bologna,1,2,1,2,3,3,D,N,N,N,0,,13,1,0,0,0,"5,96",31,3,2,0,0,"6,18",28,2,0,0,0,"5,86"
+729,D,Dd,E,,Pereira P.,Monza,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,34,0,4,0,0,"5,75"
+2737,D,Dc,,,Bettella,Monza,1,1,1,1,1,1,D,N,N,N,20,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4432,D,Dc,,,Okoli,Frosinone,1,2,1,2,7,7,,Y,N,N,0,,14,0,0,0,0,"5,61",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5424,D,Dd,Dc,,Amey,Bologna,1,1,1,1,1,2,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+5686,D,E,,,Soppy,Torino,1,2,1,2,3,3,D,N,N,N,0,,12,0,3,0,0,"5,88",19,0,0,0,0,"5,82",-1,-1,-1,-1,-1,-1
+5833,D,Dc,,,Gila,Lazio,1,1,1,1,2,2,D,N,N,N,0,,2,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6023,D,Dc,,,Guessand A.,Udinese,1,1,1,1,1,1,D,N,N,N,0,,1,0,0,0,0,"6,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6028,D,Dd,Dc,,Bronn,Salernitana,1,2,1,2,3,3,D,N,N,N,0,,21,0,0,0,0,"5,43",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6043,D,Dc,,,Sosa,Bologna,1,2,1,2,2,2,D,N,N,N,0,,9,0,0,0,0,"5,28",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6056,D,Dc,,,Guarino,Empoli,1,1,1,1,2,2,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6149,D,Ds,E,,Carboni F.,Monza,1,1,1,1,1,1,D,N,N,N,0,,2,0,0,0,0,"6,25",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6223,D,Dc,,,Smajlovic,Lecce,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6244,D,Dc,,,Matturro,Genoa,1,1,1,1,1,1,A,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6253,D,Dc,,,N'guessan,Torino,1,1,1,1,1,1,A,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6411,D,Dc,,,Mateus Lusuardi,Frosinone,1,1,1,1,1,1,A,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6430,D,Dc,,,Kalaj,Frosinone,1,1,1,1,1,1,A-,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6432,D,Dd,Ds,E,Pierozzi,Fiorentina,1,1,1,2,2,3,A,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6433,D,Dc,,,Huijsen,Juventus,1,1,1,1,1,1,A-,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6444,D,Dc,,,Bonfanti,Atalanta,1,1,1,1,1,1,A-,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6460,D,Dc,,,Pellegrino,Milan,1,1,1,1,1,1,A-,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+632,C,W,A,,Zaccagni,Lazio,26,28,26,28,162,160,A,Y,Y,Y,0,,35,10,6,1,0,"7,44",30,6,4,1,0,"6,93",35,5,5,1,0,"6,79"
+5685,C,C,T,,Koopmeiners,Atalanta,24,24,24,24,112,112,,Y,Y,Y,0,,33,10,5,2,2,"7,14",28,4,1,0,0,"6,62",-1,-1,-1,-1,-1,-1
+335,C,W,A,,Felipe Anderson,Lazio,22,23,22,23,114,120,A-,Y,N,N,0,,38,9,3,0,0,7,38,6,8,0,0,"6,8",-1,-1,-1,-1,-1,-1
+2085,C,C,T,,Luis Alberto,Lazio,22,21,23,22,90,94,B,Y,Y,Y,0,,34,6,7,1,1,"6,93",34,5,10,0,0,"6,81",34,9,0,0,0,"7,03"
+2379,C,C,,,Rabiot,Juventus,22,22,22,22,103,103,A-,Y,N,N,0,,32,8,4,0,0,"7,03",29,0,2,0,0,"5,69",32,4,1,0,0,"6,09"
+152,C,C,T,,Zielinski,Napoli,21,20,21,20,74,74,A-,Y,N,Y,0,,37,3,8,0,0,"6,72",34,6,5,0,0,"6,78",36,8,9,0,0,"7,28"
+1870,C,C,,,Barella,Inter,20,20,20,20,78,78,B,Y,N,N,0,,35,6,6,0,0,"6,86",36,3,11,0,0,"6,92",36,3,5,0,0,"6,61"
+2423,C,T,A,,Pulisic,Milan,20,18,19,17,126,120,B,Y,Y,Y,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2167,C,W,,,Orsolini,Bologna,19,21,18,20,91,91,A-,Y,Y,Y,0,,32,11,2,3,0,"7,09",26,6,3,2,0,"6,81",31,7,3,3,0,"6,74"
+4856,C,W,A,,Chukwueze,Milan,19,19,18,18,75,75,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4486,C,W,,,Strefezza,Lecce,18,18,17,17,69,69,A,Y,Y,Y,0,,34,8,4,2,1,"6,97",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5858,C,C,T,,Ferguson,Bologna,18,17,19,18,71,74,A-,Y,N,N,0,,31,7,0,0,0,"6,85",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+332,C,W,,,Candreva,Salernitana,17,15,16,14,75,72,B,Y,Y,Y,0,,35,7,4,0,0,"6,89",36,7,10,1,1,"6,85",33,5,7,2,0,"6,88"
+2194,C,M,C,,Calhanoglu,Inter,17,16,19,18,69,81,A-,Y,Y,Y,0,,33,3,5,1,0,"6,74",33,7,12,3,0,"7,2",33,4,9,1,0,"6,85"
+2848,C,C,,,Frattesi,Inter,17,17,17,17,54,54,B,Y,N,N,0,,36,7,0,0,0,"6,79",36,4,3,0,0,"6,36",0,0,0,0,0,0
+5119,C,C,T,,Samardzic,Udinese,17,16,17,16,50,50,B,Y,Y,N,0,,32,5,3,0,0,"6,59",13,2,2,0,0,"6,73",-1,-1,-1,-1,-1,-1
+5687,C,W,T,,Vlasic,Torino,17,18,18,19,68,74,A-,Y,Y,Y,15,,34,5,6,0,0,"6,82",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+795,C,W,A,,El Shaarawy,Roma,16,16,15,15,35,31,A-,N,N,N,0,,26,7,1,0,0,"7,15",24,3,0,0,0,"6,27",9,1,0,0,0,"5,94"
+4142,C,C,T,,Aouar,Roma,16,15,16,15,55,55,B,Y,N,Y,15,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+367,C,C,T,,Bonaventura,Fiorentina,15,14,15,14,39,39,B,Y,N,Y,0,,28,5,1,0,0,"6,71",31,4,4,0,0,"6,56",32,3,2,0,0,"6,3"
+530,C,C,T,,Pellegrini Lo.,Roma,15,16,15,16,62,66,A-,Y,Y,Y,0,,32,4,5,2,1,"6,33",27,9,3,2,1,"7,13",33,7,5,1,0,"6,94"
+536,C,W,,,Politano,Napoli,15,14,14,13,66,60,B,Y,Y,N,0,,23,3,2,2,1,"6,54",31,3,4,0,0,"6,5",36,9,3,0,0,"7,01"
+4427,C,T,,,Malinovskyi,Genoa,15,17,14,16,62,60,A-,Y,Y,Y,0,,12,1,2,0,0,"6,38",29,6,5,0,0,"6,88",32,8,11,1,0,"7,44"
+5850,C,C,T,,Lovric,Udinese,15,15,15,15,53,53,A-,Y,N,Y,0,,36,5,6,0,0,"6,71",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5948,C,C,T,,Kamada,Lazio,15,15,15,15,48,45,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5949,C,W,T,,Lindstrom,Napoli,15,15,15,15,60,60,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+236,C,E,W,,Lazovic,Verona,14,15,14,15,42,45,C,Y,N,Y,20,,30,4,5,0,0,"6,82",34,1,7,0,0,"6,49",31,3,6,0,0,"6,58"
+4199,C,C,,,Loftus-Cheek,Milan,14,13,14,13,33,33,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4220,C,M,C,,Zambo Anguissa,Napoli,14,14,15,15,34,40,,Y,N,N,0,,36,3,5,0,0,"6,6",23,0,1,0,0,"6,22",-1,-1,-1,-1,-1,-1
+4479,C,C,W,T,Elmas,Napoli,14,15,16,17,44,50,A-,N,N,N,0,,34,6,3,1,0,"6,69",32,3,4,0,0,"6,48",21,2,1,0,0,"6,17"
+4711,C,E,W,,Kostic,Juventus,14,15,14,15,30,25,C,Y,N,Y,0,,36,3,10,0,0,"6,6",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5800,C,T,A,,Gudmundsson A.,Genoa,14,14,13,13,63,58,C,Y,Y,Y,0,,-1,-1,-1,-1,-1,-1,11,1,0,0,0,"5,82",-1,-1,-1,-1,-1,-1
+5823,C,T,A,,Baldanzi,Empoli,14,15,13,14,39,36,C,Y,Y,Y,0,,26,4,0,0,0,"6,58",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5880,C,E,W,,Ciurria,Monza,14,14,15,15,42,46,C,Y,N,Y,0,,35,6,6,0,0,"6,81",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2077,C,T,,,Pasalic,Atalanta,13,14,12,13,30,25,B,Y,N,N,0,,32,5,1,0,0,"6,41",33,13,6,0,0,"7,56",20,6,1,0,0,7
+2529,C,C,T,,Mkhitaryan,Inter,13,13,13,13,42,42,B,Y,N,Y,0,,31,3,2,0,0,"6,39",31,5,6,0,0,"6,82",34,13,10,1,0,"7,74"
+2741,C,C,T,,Pessina,Monza,13,14,13,14,40,40,C,Y,Y,Y,0,,35,5,3,3,0,"6,57",24,1,1,0,0,"6,06",26,2,1,0,0,"6,46"
+4186,C,C,T,,Guendouzi,Lazio,13,13,12,12,30,28,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4287,C,M,C,,Lobotka,Napoli,13,13,14,14,27,36,C,Y,N,N,0,,38,1,1,0,0,"6,34",21,1,0,0,0,"6,38",5,0,0,0,0,"5,8"
+5451,C,T,,,Bajrami,Sassuolo,13,13,12,12,36,30,B,N,N,Y,0,,36,2,1,0,0,"6,01",34,6,5,3,0,"6,88",-1,-1,-1,-1,-1,-1
+5453,C,M,C,,Ricci S.,Torino,13,13,14,14,23,28,A-,Y,N,N,0,,28,2,1,0,0,"6,3",30,1,1,0,0,"5,95",-1,-1,-1,-1,-1,-1
+6224,C,M,C,,Reijnders,Milan,13,12,14,13,40,50,B,Y,N,Y,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+303,C,C,T,,Pogba,Juventus,12,12,12,12,28,28,C,Y,Y,N,40,,5,0,0,0,0,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2543,C,C,,,Renato Sanches,Roma,12,13,12,13,32,30,C,Y,N,N,20,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4465,C,C,T,,Fagioli,Juventus,12,13,12,13,30,30,C,Y,N,N,0,,23,3,3,0,0,"6,59",0,0,0,0,0,0,1,0,0,0,0,6
+4658,C,W,,,Ikone',Fiorentina,12,13,11,12,18,18,D,Y,N,N,15,,30,4,2,0,0,"6,43",15,1,1,0,0,"6,1",-1,-1,-1,-1,-1,-1
+5007,C,C,,,Ilic,Torino,12,12,12,12,28,28,D,Y,N,Y,0,,25,2,3,0,0,"6,34",32,1,3,0,0,"6,08",28,2,0,0,0,"6,11"
+5063,C,W,,,Radonjic,Torino,12,11,11,10,27,25,B,Y,N,Y,0,,26,2,3,0,0,"6,54",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5564,C,W,A,,Ndoye,Bologna,12,12,11,11,25,25,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5792,C,C,T,,Ederson D.s.,Atalanta,12,10,12,10,20,20,C,Y,N,N,0,,34,1,1,0,0,6,15,2,1,0,0,"6,47",-1,-1,-1,-1,-1,-1
+5878,C,C,T,,Colpani,Monza,12,9,12,9,25,25,D,Y,N,N,0,,24,4,1,0,0,"6,62",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+22,C,M,C,,De Roon,Atalanta,11,11,12,12,18,22,C,Y,N,N,0,,34,3,0,0,0,"6,26",30,3,0,0,0,"6,13",35,1,1,0,0,"6,06"
+827,C,M,C,,Locatelli,Juventus,11,12,12,13,29,32,C,Y,N,N,0,,31,0,2,0,0,"6,08",29,3,3,0,0,"6,47",34,4,1,2,0,"6,53"
+2172,C,T,,,Barak,Fiorentina,11,12,10,11,14,10,B,Y,Y,N,25,,28,2,0,0,0,"5,96",29,11,3,4,0,"7,48",34,7,3,0,0,"6,69"
+150,C,W,T,,Saponara,Verona,10,11,10,11,29,33,,N,N,Y,15,,24,4,3,0,0,"6,6",24,3,3,0,0,"6,79",8,2,0,0,0,"6,81"
+779,C,M,C,,Cristante,Roma,10,9,11,10,17,23,D,Y,N,N,0,,36,1,1,0,1,"5,89",34,2,0,0,0,"5,96",31,1,1,0,0,"5,77"
+1933,C,M,C,,Mandragora,Fiorentina,10,9,10,10,15,16,C,Y,N,Y,0,,28,2,4,0,0,"6,25",18,0,2,0,0,"6,06",26,3,1,0,0,"6,15"
+4662,C,E,W,,Weah,Juventus,10,10,10,10,32,38,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2818,C,M,C,,Bennacer,Milan,9,10,10,11,9,10,A-,N,N,N,90,,28,2,3,0,0,"6,46",28,2,1,0,0,"6,41",21,0,1,0,0,"5,69"
+4182,C,C,T,,Klaassen,Inter,9,9,9,9,18,18,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4377,C,C,T,,Castrovilli,Fiorentina,9,10,8,9,9,9,C,N,N,N,90,,12,2,1,0,0,"6,54",23,1,1,0,0,"6,11",32,5,3,0,0,"6,39"
+5001,C,T,A,,Miranchuk,Atalanta,9,10,9,10,8,8,C,N,N,N,0,,28,4,5,0,0,"6,84",18,2,4,0,0,"6,44",16,4,1,0,0,"7,03"
+5295,C,C,,,Musah,Milan,9,9,9,9,18,18,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5511,C,C,,,Matheus Henrique,Sassuolo,9,9,8,8,9,8,B,Y,N,N,0,,30,4,1,0,0,"6,27",20,0,0,0,0,"5,8",-1,-1,-1,-1,-1,-1
+5995,C,T,,,De Ketelaere,Atalanta,9,7,9,7,41,37,D,Y,N,Y,0,,27,0,1,0,0,"5,74",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6216,C,W,,,Mboula,Verona,9,10,8,9,12,12,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+333,C,M,C,,Cataldi,Lazio,8,7,8,8,12,14,C,N,N,Y,0,,28,0,1,0,0,"5,93",30,1,2,0,0,"6,08",13,0,0,0,0,"5,58"
+1987,C,E,C,,Jankto,Cagliari,8,7,8,8,15,18,D,Y,N,Y,0,,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0,33,6,3,0,0,"6,47"
+2839,C,W,,,Sottil,Fiorentina,8,8,8,8,12,12,C,Y,N,N,0,,16,0,2,0,0,"6,06",22,3,2,0,0,"6,41",19,2,1,0,0,"6,32"
+4285,C,M,C,,Arthur Melo,Fiorentina,8,7,9,8,18,18,B,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4342,C,C,T,,Duda,Verona,8,6,8,6,14,14,C,Y,Y,Y,0,,14,0,0,0,0,"5,68",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4404,C,M,C,,Thorsby,Genoa,8,9,10,11,18,21,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,35,3,1,0,0,6,33,3,1,0,0,"6,18"
+4514,C,E,C,,Nandez,Cagliari,8,7,9,8,21,24,C,Y,N,Y,0,,-1,-1,-1,-1,-1,-1,20,0,2,0,0,"6,02",32,2,3,0,0,"6,23"
+4890,C,M,C,,Tameze,Torino,8,8,9,9,10,13,B,N,N,N,0,,37,0,0,0,0,"5,77",36,4,2,0,0,"6,58",32,1,0,0,0,"5,92"
+4965,C,M,C,,Marin,Empoli,8,8,9,9,14,16,C,Y,N,Y,0,,32,2,4,0,0,"6,2",36,0,5,0,0,"5,96",37,3,5,0,0,"6,28"
+4970,C,W,,,Messias,Genoa,8,9,7,8,28,28,D,N,N,Y,20,,25,5,2,0,0,"6,62",26,5,2,0,0,"6,62",36,9,3,0,0,"6,99"
+4973,C,C,,,Mckennie,Juventus,8,8,7,7,11,11,C,N,N,N,0,,15,1,1,0,0,"5,97",19,3,0,0,0,"6,63",33,5,2,0,0,"6,61"
+5093,C,W,T,,Reinier,Frosinone,8,8,8,8,18,18,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5422,C,E,,,Zalewski,Roma,8,8,9,9,10,10,B,N,N,N,0,,32,2,1,0,0,"6,16",13,0,0,0,0,"5,81",1,0,1,0,0,7
+5504,C,M,C,,Coulibaly L.,Salernitana,8,8,9,9,10,13,D,N,N,N,0,,35,3,3,0,0,"6,23",31,0,0,0,0,"5,74",-1,-1,-1,-1,-1,-1
+5688,C,M,C,,Harroui,Frosinone,8,4,8,5,22,27,C,Y,Y,Y,0,,17,2,0,0,0,"6,24",10,0,0,0,0,"5,7",-1,-1,-1,-1,-1,-1
+5788,C,T,A,,Sabiri,Fiorentina,8,9,8,9,7,5,B,N,N,N,15,,18,2,0,1,1,"5,81",13,3,2,0,0,"6,88",-1,-1,-1,-1,-1,-1
+148,C,M,C,,Krunic,Milan,7,6,8,7,12,14,B,Y,N,N,0,,22,0,1,0,0,"5,82",23,0,1,0,0,"6,15",16,1,2,0,0,"6,12"
+468,C,M,C,,Paredes,Roma,7,7,8,8,13,14,D,Y,N,N,0,,20,1,0,0,0,"5,78",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+788,C,M,C,,Freuler,Bologna,7,7,8,8,15,16,C,Y,N,N,0,,0,0,0,0,0,0,29,1,1,0,0,"5,83",33,2,3,0,0,"6,52"
+801,C,M,C,,Gagliardini,Monza,7,6,8,7,12,14,C,Y,N,N,0,,13,0,0,0,0,"5,46",15,2,2,0,0,"6,57",22,3,2,0,0,"6,5"
+2117,C,C,T,,Kastanos,Salernitana,7,7,7,7,12,12,D,Y,N,Y,0,,22,2,0,0,0,"6,2",25,1,1,0,0,"5,94",-1,-1,-1,-1,-1,-1
+4681,C,M,C,,Lopez M.,Fiorentina,7,8,8,9,22,25,C,Y,N,Y,0,,30,0,0,0,0,"5,75",34,2,1,0,0,"6,1",28,2,0,0,0,"5,95"
+4992,C,W,A,,Gyasi,Empoli,7,8,7,8,8,8,C,Y,N,N,0,,35,2,0,0,0,"5,8",36,6,0,0,0,"6,08",36,4,6,0,0,"6,4"
+5791,C,E,M,,Frendrup,Genoa,7,5,8,7,13,16,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,10,0,0,0,0,"5,75",-1,-1,-1,-1,-1,-1
+6054,C,M,C,,Moro N.,Bologna,7,6,7,6,12,14,D,Y,N,N,0,,25,1,4,0,0,"6,3",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6394,C,M,C,,Ramadani,Lecce,7,6,8,7,11,13,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+65,C,T,,,Mancosu,Cagliari,6,7,5,6,6,6,,N,N,Y,20,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+181,C,M,C,,Vecino,Lazio,6,6,7,7,7,8,C,N,N,N,0,,30,2,0,0,0,"6,05",10,1,0,0,0,"6,25",4,1,1,0,0,"7,38"
+470,C,M,C,,Strootman,Genoa,6,6,7,7,8,9,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,9,0,0,0,0,"5,5",18,0,3,0,0,"6,14"
+526,C,C,,,Duncan,Fiorentina,6,5,6,4,9,10,D,Y,N,N,0,,21,1,0,0,0,"5,95",31,2,2,0,0,"6,13",15,0,1,0,0,"5,8"
+666,C,C,,,Machin,Monza,6,5,5,4,6,5,D,N,N,N,0,,21,0,2,0,0,"5,9",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1978,C,C,T,,Sensi,Inter,6,7,6,7,10,10,D,N,N,N,0,,27,3,1,0,0,"6,26",14,1,0,0,0,"6,11",16,0,0,0,0,"5,91"
+2008,C,M,C,,Linetty,Torino,6,5,6,6,6,7,B,N,N,N,0,,29,1,0,0,0,"5,93",16,0,0,0,0,"5,72",24,1,0,0,0,"5,71"
+2392,C,M,C,,Walace,Udinese,6,7,7,8,9,10,C,Y,N,N,0,,37,0,1,0,0,"5,89",35,1,0,0,0,"5,86",28,0,0,0,0,"5,84"
+4947,C,M,C,,Brescianini,Frosinone,6,5,6,6,4,6,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5298,C,C,,,Pobega,Milan,6,5,5,4,8,8,D,N,N,N,0,,14,2,0,0,0,"6,25",31,4,1,0,0,"6,5",20,6,0,0,0,"6,85"
+5423,C,C,,,Bove,Roma,6,5,6,5,7,7,C,N,N,N,0,,17,1,0,0,0,"6,15",2,1,0,0,0,8,0,0,0,0,0,0
+5784,C,C,W,T,Aebischer,Bologna,6,5,6,5,9,12,D,Y,N,N,0,,26,1,0,0,0,"5,9",8,0,0,0,0,"5,81",-1,-1,-1,-1,-1,-1
+5844,C,C,T,,Thorstvedt,Sassuolo,6,6,6,6,7,7,D,Y,N,N,0,,25,2,1,0,0,"6,2",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5869,C,M,C,,Blin,Lecce,6,6,6,6,5,6,D,N,N,Y,0,,34,1,0,0,0,"5,91",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5999,C,C,,,Gonzalez J.,Lecce,6,7,6,7,9,9,D,Y,N,N,0,,34,1,1,0,0,"5,91",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6061,C,W,T,,Oudin,Lecce,6,6,5,5,9,8,D,Y,N,N,0,,25,3,0,0,0,"6,3",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6206,C,C,,,Fabbian,Bologna,6,5,6,5,18,18,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6222,C,C,T,,Rafia,Lecce,6,3,6,3,16,16,C,Y,Y,Y,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6402,C,M,C,,Cajuste,Napoli,6,7,7,8,12,14,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6410,C,M,C,,Kaba,Lecce,6,5,6,6,7,8,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+27,C,M,,,Grassi,Empoli,5,5,5,5,6,8,D,Y,N,Y,0,,20,0,0,0,0,"5,85",28,0,1,0,0,"5,88",20,0,0,0,0,"5,55"
+170,C,M,C,,Badelj,Genoa,5,5,6,6,7,8,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,34,1,0,0,0,"5,79",29,1,3,0,0,"6,22"
+1976,C,M,C,,Mazzitelli,Frosinone,5,4,6,5,6,8,D,N,Y,Y,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2692,C,W,,,Castillejo,Sassuolo,5,5,4,4,9,7,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,3,0,0,0,0,"6,17",24,1,0,0,0,"5,92"
+5499,C,M,C,,Hongla,Verona,5,4,6,5,4,6,D,Y,N,N,15,,8,0,0,0,0,"5,44",13,1,0,0,0,"5,88",-1,-1,-1,-1,-1,-1
+5813,C,C,T,,Miretti,Juventus,5,5,5,5,11,11,C,N,N,N,0,,25,0,2,0,0,"6,02",4,0,0,0,0,6,-1,-1,-1,-1,-1,-1
+6010,C,C,T,,Fazzini,Empoli,5,6,5,6,10,10,D,N,N,N,0,,15,0,0,0,0,"5,8",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6112,C,W,,,Iling Junior,Juventus,5,4,4,3,12,12,D,N,N,N,0,,8,1,1,0,0,"6,62",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6218,C,W,T,A,Oristanio,Cagliari,5,4,7,7,12,14,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6219,C,M,C,,Boloca,Sassuolo,5,6,6,7,12,14,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6232,C,M,C,,Makoumbou,Cagliari,5,5,6,6,8,10,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6448,C,T,,,Martegani,Salernitana,5,4,4,3,6,5,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6458,C,C,T,,Serdar,Verona,5,5,5,5,7,7,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6481,C,C,T,,Payero,Udinese,5,5,5,5,8,8,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+694,C,W,,,Baez,Frosinone,4,3,4,3,6,6,D,N,N,N,0,,2,0,0,0,0,"5,75",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1871,C,M,C,,Deiola,Cagliari,4,4,4,4,5,6,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,31,4,1,0,0,"6,16",20,0,0,0,0,"5,58"
+2825,C,M,C,,Bourabia,Frosinone,4,4,5,5,8,10,D,Y,N,N,0,,37,1,2,0,0,6,8,1,0,0,0,"6,38",11,1,0,0,0,"6,09"
+4459,C,M,C,,Rovella,Lazio,4,5,5,6,10,12,C,Y,N,N,0,,25,1,2,0,0,"6,16",20,0,3,0,0,"6,12",18,0,2,0,0,"5,83"
+4892,C,W,,,Saelemaekers,Bologna,4,5,4,5,7,7,D,N,N,N,20,,29,2,2,0,0,"6,17",34,1,3,0,0,"6,16",32,2,4,0,0,"6,14"
+4896,C,T,A,,Maldini,Empoli,4,5,4,5,9,7,D,N,N,N,15,,15,2,0,0,0,"6,43",3,1,0,0,0,"7,17",0,0,0,0,0,0
+5267,C,M,C,,Racic,Sassuolo,4,4,5,5,8,10,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5397,C,C,T,,Kovalenko,Empoli,4,4,4,4,7,7,D,N,N,N,0,,13,0,0,0,0,"5,88",22,1,3,0,0,"6,07",0,0,0,0,0,0
+5457,C,C,,,Maleh,Empoli,4,5,3,4,4,4,D,N,N,N,0,,21,0,1,0,0,"5,76",23,2,1,0,0,"6,26",-1,-1,-1,-1,-1,-1
+5798,C,M,C,,Bohinen,Salernitana,4,4,4,4,6,7,D,Y,N,N,0,,19,0,0,0,0,"5,82",10,0,1,0,0,"5,8",-1,-1,-1,-1,-1,-1
+5884,C,C,,,Ranocchia F.,Empoli,4,5,3,4,6,6,D,Y,N,N,0,,12,1,0,0,0,"6,42",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6393,C,W,T,,Infantino,Fiorentina,4,5,5,6,10,12,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6479,C,M,C,,Kutlu,Genoa,4,4,5,5,6,7,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6480,C,W,,,Tchatchoua,Verona,4,4,3,3,5,4,D,N,N,N,20,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2161,C,M,C,,Haas,Empoli,3,4,4,5,4,3,D,N,N,N,0,,24,1,0,0,0,"5,96",16,0,2,0,0,"5,91",-1,-1,-1,-1,-1,-1
+2183,C,W,T,,Garritano,Frosinone,3,3,3,3,4,4,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4787,C,C,W,T,Quina,Udinese,3,4,4,5,4,6,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4870,C,M,C,,Adopo,Atalanta,3,2,3,2,4,5,D,N,N,N,0,,4,0,0,0,0,"5,75",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4988,C,C,,,Maggiore,Salernitana,3,3,3,3,4,3,D,N,N,N,15,,15,0,0,0,0,"5,73",35,2,3,0,0,"6,2",32,3,1,0,0,"6,36"
+5510,C,W,,,Romero L.,Milan,3,4,3,4,8,8,D,N,N,N,0,,2,1,0,0,0,"7,75",2,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1
+5674,C,C,,,Basic,Lazio,3,4,3,4,6,5,D,N,N,N,0,,14,1,0,0,0,"6,18",20,0,2,0,0,"5,88",-1,-1,-1,-1,-1,-1
+5719,C,M,C,,Asllani,Inter,3,4,4,5,8,10,D,N,N,N,0,,13,0,0,0,0,"5,85",18,1,1,0,0,"6,17",-1,-1,-1,-1,-1,-1
+5919,C,W,,,Tchaouna,Salernitana,3,3,2,2,5,3,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6024,C,M,C,,Sulemana I.,Cagliari,3,3,2,2,4,5,D,Y,N,N,0,,13,0,0,0,0,"5,77",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6175,C,M,C,,Barrenechea,Frosinone,3,2,4,3,6,8,D,N,N,N,0,,3,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6241,C,C,W,T,Gelli,Frosinone,3,1,3,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6252,C,C,T,,Folorunsho,Verona,3,2,3,2,12,12,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6486,C,C,W,T,Suslov,Verona,3,3,5,5,5,7,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4364,C,C,T,,Gaetano,Napoli,2,3,2,3,4,4,D,N,N,N,0,,4,1,0,0,0,"6,88",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4384,C,C,,,Jagiello,Genoa,2,3,2,3,5,4,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0
+4501,C,M,C,,Obiang,Sassuolo,2,3,2,3,3,3,D,N,N,N,0,,13,0,0,0,0,"5,81",0,0,0,0,0,0,24,0,1,0,0,"5,77"
+5286,C,M,C,,Akpa Akpro,Monza,2,3,2,3,3,3,D,N,N,N,0,,24,1,1,0,0,6,6,0,0,0,0,"5,25",25,0,1,0,0,"5,82"
+5425,C,C,T,,Urbanski,Bologna,2,1,2,1,2,2,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+5735,C,T,,,Volpato,Sassuolo,2,3,2,3,4,4,D,N,N,N,0,,6,1,1,0,0,"6,67",1,1,0,0,0,10,-1,-1,-1,-1,-1,-1
+5879,C,T,A,,Vignato S.,Monza,2,1,2,1,1,1,D,N,N,N,0,,2,0,1,0,0,"6,75",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5947,C,C,,,Hrustic,Verona,2,3,2,3,4,3,D,N,N,N,0,,5,0,0,0,0,"5,4",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6212,C,C,,,Zarraga,Udinese,2,3,2,3,4,3,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6221,C,M,C,,Camara E.,Udinese,2,3,3,4,4,5,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6236,C,M,C,,Amatucci,Fiorentina,2,1,2,1,1,2,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+440,C,C,,,Viola,Cagliari,1,2,1,2,4,4,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,3,0,0,0,0,"5,67",17,5,1,4,0,"7,15"
+500,C,C,,,Lulic K.,Frosinone,1,2,1,2,3,3,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2076,C,M,C,,Rog,Cagliari,1,1,1,1,1,1,D,N,N,N,150,,-1,-1,-1,-1,-1,-1,8,0,1,0,0,"5,94",14,0,0,0,0,"5,89"
+4349,C,M,C,,Nicolussi Caviglia,Juventus,1,2,1,2,2,2,D,N,N,N,0,,11,1,0,0,0,"5,91",-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+4725,C,M,,,Demme,Napoli,1,1,1,1,1,1,D,N,N,N,0,,2,0,0,0,0,"5,75",13,1,0,0,0,6,21,2,2,0,0,"6,45"
+5824,C,T,A,,Pafundi,Udinese,1,1,1,1,1,1,D,N,N,N,0,,2,0,0,0,0,"5,75",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5875,C,T,,,Adli,Milan,1,1,1,1,3,3,D,N,N,N,0,,4,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5992,C,C,T,,Bondo,Monza,1,1,1,1,1,1,D,N,N,N,0,,2,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5998,C,W,,,Zerbin,Napoli,1,1,1,1,1,1,D,N,N,N,0,,4,0,0,0,0,"5,62",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6106,C,T,A,,Carboni V.,Monza,1,2,1,2,4,3,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6168,C,M,C,,Faticanti,Lecce,1,1,1,1,6,6,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6170,C,C,,,Gineitis,Torino,1,1,1,1,1,1,D,N,N,N,0,,2,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6203,C,M,C,,Belardinelli,Empoli,1,2,1,2,3,3,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6225,C,M,C,,El Azzouzi,Bologna,1,1,1,1,2,2,A,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6246,C,M,C,,Lipani,Sassuolo,1,1,1,1,1,1,A-,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6254,C,M,C,,Joselito,Verona,1,1,1,1,1,1,B,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6420,C,C,T,,Pagano,Roma,1,1,1,1,1,1,A,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6423,C,M,C,,Legowski,Salernitana,1,1,1,1,1,1,A,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6424,C,M,C,,Prati,Cagliari,1,2,2,3,4,5,A-,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4661,A,Pc,,,Osimhen,Napoli,44,43,44,43,442,438,A,Y,Y,N,0,,32,26,4,2,1,"9,14",27,14,2,0,0,"7,98",24,10,2,0,0,"7,58"
+2764,A,Pc,,,Martinez L.,Inter,40,37,40,37,436,436,A-,Y,Y,N,0,,37,21,6,1,1,"8,16",33,21,3,3,3,"8,02",38,17,5,2,0,"7,87"
+4510,A,A,,,Rafael Leao,Milan,32,31,32,31,261,261,A,Y,N,N,0,,34,15,7,0,0,"7,9",34,11,10,0,0,"7,84",29,6,6,0,0,"6,78"
+785,A,Pc,,,Immobile,Lazio,31,32,31,32,327,317,B,Y,Y,N,0,,29,12,5,4,1,"7,48",31,27,2,7,2,"9,02",35,20,6,4,4,"7,7"
+531,A,A,,,Berardi,Sassuolo,30,30,30,30,259,260,B,Y,Y,Y,0,,24,12,7,7,1,"8,1",33,15,13,6,0,"8,33",30,17,7,7,1,"8,37"
+2531,A,Pc,,,Lukaku,Roma,30,31,30,31,312,303,B,Y,Y,N,0,,25,10,6,2,0,"7,66",0,0,0,0,0,0,35,24,9,6,0,"8,89"
+5839,A,A,,,Kvaratskhelia,Napoli,30,31,30,31,261,265,C,Y,Y,Y,0,,34,12,10,2,0,"7,96",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+309,A,A,,,Dybala,Roma,28,30,28,30,286,292,B,Y,Y,Y,0,,25,12,6,5,0,"8,24",28,10,5,1,1,"7,45",19,4,3,0,0,"6,89"
+2841,A,Pc,,,Vlahovic,Juventus,28,28,28,28,360,350,B,Y,Y,Y,0,,25,10,1,2,1,"7,16",36,24,3,5,1,"8,35",37,21,2,6,0,"8,01"
+4200,A,Pc,,,Giroud,Milan,28,24,28,24,194,185,B,Y,Y,N,0,,33,13,4,3,0,"7,42",29,11,3,2,0,"7,43",-1,-1,-1,-1,-1,-1
+2137,A,Pc,,,Scamacca,Atalanta,27,25,27,25,220,195,B,Y,Y,N,0,,0,0,0,0,0,0,32,16,0,1,0,"7,61",26,8,2,2,0,"7,08"
+5672,A,Pc,,,Dia,Salernitana,26,26,26,26,197,190,B,Y,Y,N,0,,33,16,5,1,0,"7,82",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4871,A,Pc,,,Thuram,Inter,25,23,25,23,180,185,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4730,A,A,,,Lookman,Atalanta,24,26,24,26,155,165,C,Y,Y,N,0,,30,13,6,3,0,"7,92",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+479,A,Pc,,,Sanabria,Torino,23,24,23,24,71,60,A-,Y,Y,N,20,,31,12,4,1,0,"7,52",25,6,1,0,0,"6,88",14,5,1,0,0,7
+4268,A,Pc,,,Arnautovic,Inter,23,23,23,23,122,131,B,Y,Y,N,0,,21,10,1,3,0,"7,74",32,14,1,2,1,"7,44",-1,-1,-1,-1,-1,-1
+6228,A,Pc,,,Retegui,Genoa,23,23,23,23,128,128,A-,Y,Y,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5336,A,Pc,,,Nzola,Fiorentina,22,23,22,23,81,80,C,Y,Y,N,0,,31,13,2,3,0,"7,39",16,2,1,0,0,"6,28",25,11,3,4,0,"7,56"
+6060,A,A,,,Lauriente',Sassuolo,21,21,21,21,115,120,B,Y,Y,N,0,,28,7,6,1,0,"7,18",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+608,A,Pc,,,Zapata D.,Torino,19,19,19,19,180,170,C,Y,Y,N,0,,24,2,2,0,0,"6,27",24,10,4,3,0,"7,73",37,15,9,1,0,"7,88"
+2002,A,A,,,Chiesa,Juventus,19,17,19,17,125,130,C,Y,N,Y,0,,21,2,5,0,0,"6,6",14,2,2,0,0,"6,79",30,9,5,0,0,"7,43"
+2012,A,Pc,,,Milik,Juventus,18,18,17,17,95,82,D,Y,Y,N,0,,27,7,1,0,1,"6,74",-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+4179,A,A,,,Gonzalez N.,Fiorentina,17,15,17,15,95,100,C,Y,Y,N,0,,22,6,0,2,0,"6,86",33,7,6,3,0,"7,11",-1,-1,-1,-1,-1,-1
+6227,A,Pc,,,Okafor,Milan,16,16,15,15,60,54,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6229,A,Pc,,,Toure' E.,Atalanta,15,16,14,15,45,45,B,N,N,N,90,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6409,A,Pc,,,Beltran L.,Fiorentina,15,16,15,16,61,60,A,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1939,A,Pc,,,Lapadula,Cagliari,14,15,14,15,38,35,F,Y,Y,N,60,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,37,8,2,0,1,"6,5"
+1958,A,A,,,Caprari,Monza,14,14,14,14,48,50,D,Y,Y,Y,0,,36,5,2,1,0,"6,4",34,12,7,2,0,"7,75",30,5,6,0,1,"6,52"
+2475,A,A,,,Sanchez,Inter,14,15,14,15,44,44,C,N,N,N,0,,0,0,0,0,0,0,22,5,2,0,0,"6,91",25,7,6,0,1,"7,34"
+2544,A,Pc,,,Abraham,Roma,14,15,14,15,50,45,C,N,N,N,140,,34,8,3,0,0,"6,96",37,17,4,3,0,"7,62",-1,-1,-1,-1,-1,-1
+2819,A,Pc,,,Caputo,Empoli,14,15,14,15,52,48,B,Y,Y,N,0,,36,6,3,2,0,"6,44",38,11,4,0,1,"6,88",24,11,4,3,0,"7,65"
+6145,A,A,,,Ngonge,Verona,14,12,14,12,50,52,D,Y,N,N,0,,13,3,1,0,0,"6,73",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+507,A,Pc,,,Muriel,Atalanta,13,14,12,13,38,29,,N,N,Y,0,,25,3,3,1,0,"6,42",26,9,8,2,0,"7,69",32,22,9,2,1,"8,92"
+2038,A,Pc,,,Pinamonti,Sassuolo,13,13,12,12,40,32,C,Y,Y,N,0,,32,5,0,1,0,"6,06",36,13,1,4,0,"7,21",4,1,0,0,0,7
+2119,A,A,,,Deulofeu,Udinese,13,14,13,14,20,24,C,Y,Y,Y,40,,15,2,5,0,0,"7,07",34,13,5,1,0,"7,68",12,1,1,0,0,"6,33"
+2438,A,Pc,,,Jovic,Milan,13,14,12,13,28,20,C,N,N,N,0,,27,6,2,0,1,"6,56",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2719,A,A,,,Barrow,Bologna,13,14,13,14,11,11,C,N,N,N,0,,29,3,5,0,0,"6,36",33,6,6,0,0,"6,79",38,8,8,0,1,"6,76"
+5086,A,Pc,,,Zirkzee,Bologna,13,11,12,10,71,65,D,Y,Y,N,0,,18,2,2,0,0,"6,44",-1,-1,-1,-1,-1,-1,3,0,0,0,0,"5,5"
+6435,A,Pc,,,Krstovic,Lecce,13,11,13,11,32,25,C,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+383,A,Pc,,,Petagna,Cagliari,12,13,12,13,32,27,B,Y,Y,N,0,,31,4,5,1,0,"6,56",13,3,1,0,0,"6,77",16,4,3,0,0,"7,09"
+441,A,Pc,,,Belotti,Roma,12,9,11,8,52,45,D,N,N,N,0,,22,0,2,0,1,"5,75",22,8,1,3,0,"7,32",34,13,6,4,1,"7,6"
+2061,A,Pc,,,Simeone,Napoli,12,13,11,12,30,23,C,N,N,N,0,,12,4,1,0,0,"7,33",35,17,4,0,1,"7,54",29,6,1,0,0,"6,34"
+4436,A,A,,,Cambiaghi,Empoli,12,12,12,12,28,30,B,Y,Y,N,0,,25,6,1,0,0,"6,9",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5311,A,Pc,,,Shomurodov,Cagliari,12,13,12,13,22,20,B,N,N,N,0,,17,1,1,0,0,"5,97",20,3,4,0,0,"6,72",30,8,1,0,0,"6,98"
+5795,A,Pc,,,Azmoun,Roma,12,13,11,12,40,45,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6226,A,Pc,,,Castellanos,Lazio,12,13,11,12,28,22,,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2369,A,A,,,Thauvin,Udinese,11,11,11,11,16,18,D,Y,Y,Y,0,,11,0,0,0,0,"5,68",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2489,A,A,,,Pedro,Lazio,11,12,11,12,18,18,B,N,N,N,0,,36,4,3,0,0,"6,53",32,9,4,0,0,"7,14",26,5,2,0,0,"6,44"
+4184,A,W,A,,Brekalo,Fiorentina,11,11,13,13,17,17,C,Y,N,N,0,,6,0,0,0,0,6,31,7,2,0,0,"6,81",-1,-1,-1,-1,-1,-1
+5529,A,Pc,,,Henry,Verona,11,12,10,11,6,6,,N,N,N,45,,15,2,0,0,0,"6,17",32,9,2,0,0,"6,69",-1,-1,-1,-1,-1,-1
+6205,A,Pc,,,Mulattieri,Sassuolo,11,11,10,10,22,20,C,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6207,A,A,,,Almqvist,Lecce,11,10,11,10,26,30,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6398,A,A,,,Isaksen,Lazio,11,12,11,12,21,21,B,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6459,A,A,,,Karlsson,Bologna,11,11,11,11,25,25,D,Y,Y,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2097,A,Pc,,,Kean,Juventus,10,11,9,10,20,17,C,N,N,N,0,,23,6,0,0,0,"6,52",25,5,2,0,0,"6,56",-1,-1,-1,-1,-1,-1
+2325,A,A,,,Karamoh,Torino,10,10,10,10,6,6,D,N,N,N,0,,15,4,0,0,0,"6,83",-1,-1,-1,-1,-1,-1,21,2,1,0,0,"6,12"
+5471,A,Pc,,,Djuric,Verona,10,9,9,8,10,8,D,Y,Y,N,0,,24,1,0,0,0,"6,06",32,5,4,1,0,"6,55",-1,-1,-1,-1,-1,-1
+5637,A,Pc,,,Davis K.,Udinese,10,10,10,10,24,22,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5882,A,A,,,Mota,Monza,10,11,10,11,16,18,C,Y,N,N,0,,29,5,2,0,0,"6,64",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6213,A,Pc,,,Brenner,Udinese,10,11,9,10,12,10,D,N,N,N,150,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6439,A,Pc,,,Cheddira,Frosinone,10,11,10,11,28,22,D,Y,Y,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+643,A,A,,,Defrel,Sassuolo,9,9,9,9,12,13,D,N,N,N,0,,25,2,1,0,0,"5,96",30,2,2,0,0,"6,08",28,3,2,0,0,"6,3"
+4371,A,A,,,Raspadori,Napoli,9,10,9,10,35,37,D,N,N,N,0,,23,2,2,0,0,"6,22",36,10,4,0,0,"6,89",20,6,0,0,0,"7,15"
+4923,A,Pc,,,Colombo,Monza,9,10,8,9,40,33,D,Y,Y,N,0,,26,5,1,1,1,"6,37",-1,-1,-1,-1,-1,-1,2,0,0,0,0,"5,75"
+5297,A,A,,,Luvumbo,Cagliari,9,8,9,8,9,9,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0
+6001,A,A,,,Banda,Lecce,9,8,9,8,12,12,D,Y,Y,N,0,,32,2,1,0,0,"6,17",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+505,A,A,,,Bonazzoli,Verona,8,7,8,7,8,8,C,Y,Y,N,0,,21,2,2,0,0,"6,36",31,10,0,2,0,"7,1",15,2,3,0,0,"6,53"
+2103,A,Pc,,,Pellegri,Torino,8,8,7,7,10,7,D,N,N,N,0,,11,2,1,0,0,"6,5",10,1,0,0,0,"6,15",-1,-1,-1,-1,-1,-1
+2762,A,A,,,Kouame',Fiorentina,8,9,8,9,8,9,D,N,N,N,0,,28,4,5,0,0,"6,62",0,0,0,0,0,0,23,1,1,0,0,"5,83"
+4359,A,Pc,,,Piccoli,Lecce,7,7,6,6,8,7,D,N,N,N,0,,16,2,0,0,0,"6,22",8,1,0,0,0,"6,06",14,5,0,0,0,"7,14"
+5676,A,A,,,Success,Udinese,7,7,7,7,9,9,D,Y,N,N,0,,30,1,6,0,0,"6,17",19,2,6,0,0,"6,82",-1,-1,-1,-1,-1,-1
+5842,A,Pc,,,Botheim,Salernitana,7,8,6,7,10,8,D,N,Y,N,0,,17,1,3,0,0,"6,15",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6215,A,Pc,,,Lucca,Udinese,7,6,6,5,20,15,D,Y,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5364,A,A,,,Caso,Frosinone,6,6,6,6,12,12,D,Y,N,Y,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5500,A,A,,,Cancellieri,Empoli,5,5,5,5,8,8,D,Y,N,N,0,,6,0,0,0,0,"5,83",5,1,0,0,0,"6,6",-1,-1,-1,-1,-1,-1
+5807,A,A,,,Jovane,Salernitana,5,5,5,5,8,8,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,3,1,0,0,0,"6,83",-1,-1,-1,-1,-1,-1
+247,A,Pc,,,Pavoletti,Cagliari,4,4,3,3,6,4,D,N,Y,N,5,,-1,-1,-1,-1,-1,-1,28,5,1,0,0,"6,32",22,4,3,0,0,"6,5"
+5734,A,W,A,,Soule',Frosinone,4,4,5,5,14,14,D,Y,N,N,0,,7,1,0,0,0,"6,57",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5845,A,Pc,,,Alvarez A.,Sassuolo,4,5,3,4,5,4,D,N,N,N,90,,10,1,1,0,0,"6,35",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6214,A,Pc,,,Cuni,Frosinone,4,4,3,3,5,5,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5506,A,A,,,Ekuban,Genoa,3,1,3,1,2,2,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,29,1,2,0,0,"5,84",-1,-1,-1,-1,-1,-1
+5806,A,A,,,Seck,Torino,3,3,3,3,3,3,D,N,N,N,0,,9,0,0,0,0,"6,06",3,0,0,0,0,6,-1,-1,-1,-1,-1,-1
+6204,A,A,,,Kvernadze,Frosinone,3,3,3,3,6,6,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+472,A,Pc,,,Destro,Empoli,2,1,2,1,1,1,D,Y,N,N,0,,10,1,0,0,0,"5,9",27,9,1,0,0,"6,98",25,11,1,0,0,"7,42"
+5446,A,Pc,,,Van Hooijdonk,Bologna,2,3,2,3,5,5,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,1,0,0,0,0,6,-1,-1,-1,-1,-1,-1
+5776,A,A,,,Ceide,Sassuolo,2,1,2,1,1,1,D,N,N,N,0,,14,0,1,0,0,"5,96",1,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1
+6250,A,Pc,,,Maric,Monza,2,1,2,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6395,A,Pc,,,Shpendi S.,Empoli,2,1,2,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6425,A,Pc,,,Ikwuemesi,Salernitana,2,1,2,1,2,2,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+281,A,Pc,,,Puscas,Genoa,1,2,1,1,2,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5060,A,A,,,Ake' M.,Udinese,1,1,1,1,2,2,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,2,0,0,0,0,"5,75",0,0,0,0,0,0
+5391,A,Pc,,,Kokorin,Fiorentina,1,1,1,1,1,1,D,N,N,N,0,,0,0,0,0,0,0,2,0,0,0,0,6,4,0,0,0,0,"5,62"
+5395,A,A,,,Braaf,Verona,1,1,1,1,1,1,D,N,N,N,10,,6,0,0,0,0,"5,5",-1,-1,-1,-1,-1,-1,3,1,0,0,0,"7,17"
+5439,A,A,,,Kallon,Verona,1,2,1,2,2,2,D,N,N,N,0,,22,1,1,0,0,6,13,0,1,0,0,"5,85",1,0,0,0,0,"6,5"
+5505,A,Pc,,,Kaio Jorge,Frosinone,1,1,1,1,9,8,D,N,N,N,0,,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5843,A,A,,,Valencia D.,Salernitana,1,1,1,1,1,1,D,N,N,N,0,,6,0,0,0,0,"5,58",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6011,A,A,,,Ekong,Empoli,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6160,A,Pc,,,Vivaldo,Udinese,1,1,1,1,1,1,D,N,N,N,0,,1,0,0,0,0,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6242,A,A,,,Bidaoui,Frosinone,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6247,A,Pc,,,Yalcin,Genoa,1,1,1,1,1,1,D,N,N,N,0,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6418,A,Pc,,,Burnete,Lecce,1,1,1,1,2,2,,,,,,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6419,A,A,,,Corfitzen,Lecce,1,1,1,1,1,1,,,,,,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6427,A,Pc,,,Stewart,Salernitana,1,1,1,1,1,1,,,,,,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6434,A,A,,,Yildiz,Juventus,1,1,1,1,1,1,,,,,,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
